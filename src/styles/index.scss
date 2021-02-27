@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+@import 'https://fonts.googleapis.com/css?family=Poppins';
+
+body{
+	font-family: 'Poppins';
+	color: rgb(58, 58, 58);
+}
+
+p{
+	font-family: 'Open Sans';
+}
