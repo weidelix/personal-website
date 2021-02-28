@@ -1,5 +1,9 @@
 <script lang="ts">
+<<<<<<< HEAD
 	let pageIndex = 0; 
+=======
+
+>>>>>>> daa1ce821296e3469abc28853bdd0343ac85b9be
 </script>
 
 <div class="grid p-6">
