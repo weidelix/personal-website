@@ -1,9 +1,7 @@
 <script lang="ts">
-	import { url, metatags } from '@roxi/routify';
-	metatags.title = 'Home';
+	let pageIndex = 0; 
 </script>
 
-<!-- routify:options index=0 -->
 <div class="grid p-6">
 	<h1 class="text-6xl font-black">Svelte Routify Template</h1>
 	<p class="text-xl font-base text-gray-500 py-2">
