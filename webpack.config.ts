@@ -55,8 +55,8 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 		mainFields: ['svelte', 'browser', 'module', 'main'],
 	},
 	output: {
-		publicPath: '/build/',
-		path: __dirname + '/public/build',
+		publicPath: '/assets/',
+		path: __dirname + '/public/assets',
 		filename: '[name].js',
 		chunkFilename: '[name].[id].js',
 	},
@@ -116,6 +116,13 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 				use: 'ts-loader',
 				exclude: /node_modules/,
 			},
+			{
+				test: /\.(png|jpe?g|gif|svg)$/i,
+				loader: 'file-loader',
+				options: {
+					name: '/img/[name].[ext]'
+				}
+			}
 		],
 	},
 	devServer: {
@@ -124,6 +131,7 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 		stats: 'minimal',
 		contentBase: 'public/',
 		watchContentBase: true,
+		// writeToDisk: true
 	},
 	mode, 
 	plugins: [
