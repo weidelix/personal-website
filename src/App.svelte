@@ -14,6 +14,11 @@
 	// Antique Ruby: 832232
 	// Raw Sienna: CE8964
 	// Key Lime: EAF27C
+
+	// TODO: 
+	// Add sound effects
+	// Add fluid animations
+	// Finalize design
 </script>
 
 <main>
@@ -35,5 +40,6 @@
 	main {
 		height: 100%;
 		width: 100%;
+		background-color: rgb(241, 168, 192);
 	}
 </style>
