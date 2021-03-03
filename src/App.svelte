@@ -16,6 +16,7 @@
 	// Key Lime: EAF27C
 
 	// TODO: 
+	// Photo for homepage
 	// Add sound effects
 	// Add fluid animations
 	// Finalize design

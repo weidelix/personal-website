@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Card from '../components/Home/Card.svelte';
-	import { fade, fly, scale } from 'svelte/transition';
+	import { scale } from 'svelte/transition';
 	import { cubicOut, cubicIn } from 'svelte/easing';
 
 	let cards = [
@@ -8,19 +8,19 @@
 			id: 1,
 			path: '/stuff',
 			label: 'Stuff I made',
-			img: 'assets/img/stuff.png'
+			color: 'linear-gradient(140deg, rgb(171, 130, 238), rgb(116, 67, 196))'
 		},
 		{
 			id: 2,
 			path: '/about',
 			label: 'About me',
-			img: 'assets/img/about.png'
+			color: 'linear-gradient(140deg, rgb(236, 113, 113), rgb(219, 60, 60))'
 		},
 		{
 			id: 3,
 			path: '/',
 			label: 'Source code',
-			img: 'assets/img/source.png'
+			color: 'linear-gradient(140deg, rgb(71, 224, 153), rgb(39, 211, 96)'
 		}
 	];
 </script>
@@ -45,9 +45,9 @@
 			<div class="grid flex-col flex-grow">
 				<div class="self-center">
 					{#each cards as card, i (card.id)}
-					<div class="self-center" in:fly={{ x: 100, duration: 300 * card.id, easing: cubicOut }} 
+					<div class="self-center" in:scale={{ start: 0.5, opacity: 1, duration: 300 * card.id, easing: cubicOut}} 
 													 out:scale={{ start: 0.5, opacity: 0, duration: 100 * card.id, easing: cubicIn}}>
-						<Card link={card.path} label={card.label}/>
+						<Card link={card.path} label={card.label} color={card.color}/>
 					</div>
 					{/each}
 				</div>
@@ -71,41 +71,44 @@
 			width: 720px;
 			background-color: white;
 			overflow: hidden;
+			/* background-image: linear-gradient(130deg, rgb(71, 224, 153), rgb(39, 211, 96)),
+			background-image: linear-gradient(130deg, rgb(171, 130, 238), rgb(116, 67, 196)),
+			background-image: linear-gradient(130deg, rgb(236, 113, 113), rgb(219, 60, 60)), */
 		}
 	}
 	
 	.title {
 		font-size: 3rem;
 		line-height: 3rem;
-		color: #ffffff;
-		text-shadow: 1px 1px 7px #eb8752;
+		color: #525252;
+		text-shadow: 1px 1px 3px #bebcbc;
 	}
 	
 	.sub-title {
 		font-size: 1.5rem;
 		font-weight: 100;
-		color: rgb(255, 255, 255);
-		text-shadow: 1px 1px 7px #eb8752;
+		color: #525252;
+		/* text-shadow: 1px 1px 3px #a1a1a1; */
 	}
 	
 	.side-one {
+		background-image: linear-gradient(130deg, #f0c433, #eb7b3f);
 		width: 50%;
 	}
 	
 	.side-two {
 		width: 50%;
-		background-image: linear-gradient(120deg, #f0c433, #eb7b3f);
 		/* -o-linear-gradient(120deg, #f0c433, #eb7b3f),
 		-moz-linear-gradient(120deg, #f0c433, #eb7b3f),
 		-webkit-linear-gradient(120deg, #f0c433, #eb7b3f); */
 	}
 	
 	.desc {
-		color: white;
-		text-shadow: 1px 1px 7px #eb8752;
+		color: #525252;
+		/* text-shadow: 1px 1px 3px #a1a1a1; */
 	}
-
+	
 	.footer {
-		color: white
+		color: #525252;
 	}
 	</style>
