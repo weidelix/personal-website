@@ -7,15 +7,8 @@
 	import About from './pages/About.svelte';
 	import Stuff from './pages/Stuff.svelte';
 
-	// Color Pallete
-
-	// Russian Violet: 0B0033
-	// Dark Purple: 370031
-	// Antique Ruby: 832232
-	// Raw Sienna: CE8964
-	// Key Lime: EAF27C
-
 	// TODO: 
+	// Make colors more vibrant
 	// Photo for homepage
 	// Add sound effects
 	// Add fluid animations

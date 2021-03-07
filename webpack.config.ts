@@ -120,7 +120,8 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 				test: /\.(png|jpe?g|gif|svg)$/i,
 				loader: 'file-loader',
 				options: {
-					name: '/img/[name].[ext]'
+					outputPath: '/public/assets/images/',
+					name: '[name].[ext]'
 				}
 			}
 		],
@@ -131,7 +132,7 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 		stats: 'minimal',
 		contentBase: 'public/',
 		watchContentBase: true,
-		// writeToDisk: true
+		writeToDisk: true
 	},
 	mode, 
 	plugins: [
