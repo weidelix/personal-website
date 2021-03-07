@@ -120,7 +120,7 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 				test: /\.(png|jpe?g|gif|svg)$/i,
 				loader: 'file-loader',
 				options: {
-					outputPath: '/public/assets/images/',
+					outputPath: '/img',
 					name: '[name].[ext]'
 				}
 			}

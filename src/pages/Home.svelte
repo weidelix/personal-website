@@ -2,6 +2,8 @@
 	import Card from '../components/Home/Button.svelte';
 	import { scale } from 'svelte/transition';
 	import { cubicOut, cubicIn } from 'svelte/easing';
+	import { onMount } from 'svelte';
+
 
 	let cards = [
 		{
@@ -23,6 +25,13 @@
 			color: 'linear-gradient(150deg, rgb(61, 230, 151), rgb(25, 194, 81))'
 		}
 	];
+
+	onMount(() => {
+		if (performance.getEntriesByType('navigation')[0].entryType != 'navigate')
+		{
+			
+		}
+	});
 </script>
 
 <div class="grid place-items-center page p-10 antialiased" 
@@ -117,7 +126,7 @@
 	.image {
 		border-width: 5px;
 		border-color: white;
-		background-image: url('/assets/images/bg.png');
+		background-image: url('/assets/img/bg.png');
 		width: 200px;
 		height: 200px;
 	}
