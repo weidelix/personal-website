@@ -7,6 +7,8 @@
 	import About from './pages/About.svelte';
 	import Stuff from './pages/Stuff.svelte';
 
+	export let initialLoad = true;
+
 	// TODO: 
 	// Make colors more vibrant
 	// Photo for homepage

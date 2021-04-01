@@ -2,8 +2,9 @@
 	import Card from '../components/Home/Button.svelte';
 	import { scale } from 'svelte/transition';
 	import { cubicOut, cubicIn } from 'svelte/easing';
-	import { onMount } from 'svelte';
+	import { onDestroy, onMount } from 'svelte';
 
+	import initialLoad from '../App.svelte';
 
 	let cards = [
 		{
@@ -27,16 +28,18 @@
 	];
 
 	onMount(() => {
-		if (performance.getEntriesByType('navigation')[0].entryType != 'navigate')
-		{
-			
-		}
+		// if (performance.getEntriesByType('navigation')[0].entryType != 'navigate')
+		// {
+		console.log('Home mounted');
+		// }
 	});
+
+	onDestroy(() => console.log('Home destroyed'));
 </script>
 
 <div class="grid place-items-center page p-10 antialiased" 
-	in:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicOut}}
-	out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
+	in:scale={(!initialLoad) ? { start: 0.7, opacity: 0, duration: 300, easing: cubicOut} : null}
+	out:scale={(!initialLoad) ? { start: 0.7, opacity: 0, duration: 300, easing: cubicIn} : null}>
 	
 	<div class="home flex flex-col flex-wrap rounded-3xl shadow-2xl place-content-around w-full h-full">
 		<div class="flex flex-col side-one h-full">
