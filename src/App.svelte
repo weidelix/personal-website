@@ -7,7 +7,7 @@
 	import About from './pages/About.svelte';
 	import Stuff from './pages/Stuff.svelte';
 
-	export let initialLoad = true;
+	let initialLoad = true;
 
 	// TODO: 
 	// Make colors more vibrant
@@ -15,13 +15,19 @@
 	// Add sound effects
 	// Add fluid animations
 	// Finalize design
+	// Remove smooth scrolling
+
+	function setInitialLoad(){
+		initialLoad = false;
+	}
+
 </script>
 
 <main>
 	<Router>
-		<Route path="/" component={Home} />
-		<Route path="/stuff" component={Stuff} />
-		<Route path="/about" component={About} />
+		<Route path="/" component={Home} {initialLoad} {setInitialLoad}/>
+		<Route path="/stuff" component={Stuff} {initialLoad} {setInitialLoad}/>
+		<Route path="/about" component={About} {initialLoad} {setInitialLoad}/>
 	
 		<NotFound>
 			Page not found.
