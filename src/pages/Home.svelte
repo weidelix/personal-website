@@ -1,10 +1,10 @@
 <script lang="ts">
-	import Card from '../components/Home/Button.svelte';
+	import Button from '@components/Button.svelte';
 	import { scale } from 'svelte/transition';
 	import { cubicOut, cubicIn } from 'svelte/easing';
 	import { onDestroy, onMount } from 'svelte';
 
-	let cards = [
+	let buttons = [
 		{
 			id: 1,
 			path: '/stuff',
@@ -54,10 +54,10 @@
 				<!-- Links to pages -->
 				<div class="grid flex-col flex-grow">
 					<div class="self-center">
-						{#each cards as card, i (card.id)}
-						<div class="self-center" in:scale={{ start: 0.5, opacity: 1, duration: 300 * card.id, easing: cubicOut }} 
-														out:scale={{ start: 0.5, opacity: 0, duration: 100 * card.id, easing: cubicIn }}>
-							<Card link={card.path} label={card.label} color={card.color}/>
+						{#each buttons as button, i (button.id)}
+						<div class="self-center" in:scale={{ start: 0.5, opacity: 1, duration: 300 * button.id, easing: cubicOut }} 
+														out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
+							<Button link={button.path} label={button.label} color={button.color}/>
 						</div>
 						{/each}
 					</div>
@@ -99,10 +99,10 @@
 				<!-- Links to pages -->
 				<div class="grid flex-col flex-grow">
 					<div class="self-center">
-						{#each cards as card, i (card.id)}
-						<div class="self-center" out:scale={{ start: 0.5, opacity: 0, duration: 100 * card.id, easing: cubicIn }}>
-							<Card link={card.path} label={card.label} color={card.color}/>
-						</div>
+						{#each buttons as button, i (button.id)}
+							<div class="self-center" out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
+								<Button link={button.path} label={button.label} color={button.color}/>
+							</div>
 						{/each}
 					</div>
 				</div>

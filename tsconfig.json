@@ -10,7 +10,12 @@
 		"allowSyntheticDefaultImports": true,
 		"sourceMap": true,
 		"baseUrl": ".",
-		"paths": {},
+		"paths": {
+			"@components/*": ["src/components/*"],
+			"@pager/*": ["src/pager/*"],
+			"@img/*": ["src/img/*"],
+			"@pages/*": ["src/pages/*"]
+		},
 		"types": [
 			"svelte",
 			"svelte/store", 

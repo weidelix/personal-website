@@ -1,11 +1,11 @@
 <script lang="ts">
-	import Router from './pager/Router.svelte';
-	import Route from './pager/Route.svelte';
-	import NotFound from './pager/NotFound.svelte';
+	import Router from '@pager/Router.svelte';
+	import Route from '@pager/Route.svelte';
+	import NotFound from '@pager/NotFound.svelte';
 
-	import Home from './pages/Home.svelte';
-	import About from './pages/About.svelte';
-	import Stuff from './pages/Stuff.svelte';
+	import Home from '@pages/Home.svelte';
+	import About from '@pages/About.svelte';
+	import Stuff from '@pages/Stuff.svelte';
 
 	let initialLoad = true;
 
