@@ -31,53 +31,8 @@
 </script>
 
 {#if !$$props.initialLoad}
-	<div class="grid place-items-center page p-10 antialiased"
-	in:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicOut }}
-	out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
-		<div class="home flex flex-col flex-wrap rounded-3xl shadow-2xl place-content-around w-full h-full">
-			<div class="flex flex-col side-one h-full">
-				<!-- Temporary -->
-				<div class="image self-center rounded-full shadow-lg my-16"></div>
-			</div>
-			<div class="flex flex-col side-two p-7 h-full">
-				<!-- Home page title -->
-				<div>	
-					<h3 class="sub-title">Hi! I'm</h3>
-					<h1 class="title justify-self-center font-black">Anthony</h1>
-				</div>
-
-				<!-- Description -->
-				<div class="desc py-5">
-					Almost before we knew it, we had left the ground
-				</div>
-
-				<!-- Links to pages -->
-				<div class="grid flex-col flex-grow">
-					<div class="self-center">
-						{#each buttons as button, i (button.id)}
-						<div class="self-center" in:scale={{ start: 0.5, opacity: 1, duration: 300 * button.id, easing: cubicOut }} 
-														out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
-							<Button link={button.path} label={button.label} color={button.color}/>
-						</div>
-						{/each}
-					</div>
-				</div>
-
-				<!-- Footer -->
-				<div class="footer flex justify-center flex-grow text-5xl">
-					<i class="fab fa-github place-self-center justify-self-center px-3"
-						in:scale={{ start: 0, opacity: 0, duration: 500, easing: cubicOut }}></i>
-					<i class="fab fa-facebook place-self-center justify-self-center px-3"
-						in:scale={{ start: 0, opacity: 0, duration: 1000, easing: cubicOut }}></i>
-					<i class="fab fa-instagram place-self-center justify-self-center px-3"
-						in:scale={{ start: 0, opacity: 0, duration: 1500, easing: cubicOut }}></i>
-				</div>
-			</div>
-		</div>
-	</div>
-
-{:else}
-	<div class="grid place-items-center page p-10 antialiased"
+	<div class="grid place-items-center p-10 antialiased h-full"
+		in:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicOut }}
 		out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
 		<div class="home flex flex-col flex-wrap rounded-3xl shadow-2xl place-content-around w-full h-full">
 			<div class="flex flex-col side-one h-full">
@@ -98,10 +53,55 @@
 
 				<!-- Links to pages -->
 				<div class="grid flex-col flex-grow">
-					<div class="self-center">
+					<div class="grid self-center w-4/5">
 						{#each buttons as button, i (button.id)}
-							<div class="self-center" out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
-								<Button link={button.path} label={button.label} color={button.color}/>
+							<div class="self-center m-1/2" in:scale={{ start: 0.5, opacity: 1, duration: 300 * button.id, easing: cubicOut }} 
+															out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
+								<Button link={button.path} color={button.color}>{button.label}</Button>
+							</div>
+						{/each}
+					</div>
+				</div>
+
+				<!-- Footer -->
+				<div class="footer flex justify-center flex-grow text-5xl">
+					<i class="fab fa-github place-self-center justify-self-center px-3"
+						in:scale={{ start: 0, opacity: 0, duration: 500, easing: cubicOut }}></i>
+					<i class="fab fa-facebook place-self-center justify-self-center px-3"
+						in:scale={{ start: 0, opacity: 0, duration: 1000, easing: cubicOut }}></i>
+					<i class="fab fa-instagram place-self-center justify-self-center px-3"
+						in:scale={{ start: 0, opacity: 0, duration: 1500, easing: cubicOut }}></i>
+				</div>
+			</div>
+		</div>
+	</div>
+
+{:else}
+	<div class="grid place-items-center page p-10 antialiased h-full"
+		out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
+		<div class="home flex flex-col flex-wrap rounded-3xl shadow-2xl place-content-around w-full h-full">
+			<div class="flex flex-col side-one h-full">
+				<!-- Temporary -->
+				<div class="image self-center rounded-full shadow-lg my-16"></div>
+			</div>
+			<div class="flex flex-col side-two p-7 h-full">
+				<!-- Home page title -->
+				<div>	
+					<h3 class="sub-title">Hi! I'm</h3>
+					<h1 class="title justify-self-center font-black">Anthony</h1>
+				</div>
+
+				<!-- Description -->
+				<div class="desc py-5">
+					Almost before we knew it, we had left the ground
+				</div>
+
+				<!-- Links to pages -->
+				<div class="grid flex-col flex-grow">
+					<div class="grid self-center w-4/5">
+						{#each buttons as button, i (button.id)}
+							<div class="self-center m-1/2" out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
+								<Button link={button.path} color={button.color}>{button.label}</Button>
 							</div>
 						{/each}
 					</div>
@@ -120,7 +120,6 @@
 
 
 <style>
-	
 	@media screen and (min-width: 720px)
 	{
 		.home {

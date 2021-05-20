@@ -42,6 +42,6 @@
 	main {
 		height: 100%;
 		width: 100%;
-		background-color: rgb(241, 168, 192);
+		background-color: rgb(240, 240, 240);
 	}
 </style>
