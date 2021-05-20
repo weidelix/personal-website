@@ -3,7 +3,7 @@
 	import { crossfade } from 'svelte/transition';
  
 	const [send, receive] = crossfade({
-		duration: d => Math.sqrt(d * 200),
+		duration: 300,
 		easing: cubicOut,
  
 		fallback(node, params) {
@@ -64,9 +64,9 @@
 </div>
 {#if isMaximized}
 	<div class="card-max grid absolute left-0 top-0
-					text-white backdrop-blur-md
-					{(!isMaximized ? ' hidden ' : ' backdrop-filterx ')}
-					w-full h-full"
+					text-white 
+					{(!isMaximized ? ' hidden ' : ' backdrop-filter ')}
+					backdrop-blur-md w-full h-full"
 		on:click={() => {isMaximized = !isMaximized}}>
 		<div class="card-max-content grid grid-cols-2 self-center
 				place-self-center bold text-5xl 
