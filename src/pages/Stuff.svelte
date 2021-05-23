@@ -1,6 +1,8 @@
 <script lang="ts">
-	import Card from '@components/Stuff/Card.svelte';
+	import Card, { hasMaximizedCard } from '@components/Stuff/Card.svelte';
 	import Button from '@components/Button.svelte';
+import { onMount } from 'svelte';
+import { loop_guard } from 'svelte/internal';
 
 	let buttons = [
 		{
@@ -27,7 +29,8 @@
 	];
 </script>
 
-<div class="flex flex-col p-5 antialiased">
+<div class="p-5 antialiased h-full overflow-y-auto"
+		 on:scroll={e => e.preventDefault()}>
 	<div class="grid antialiased">
 		<div class="flex flex-col w-full">
 			<h1 class="title self-center font-black py-2">Stuff  I made</h1>
@@ -41,9 +44,9 @@
 		</div>
 	</div>
 	<div class="flex flex-wrap flex-grow content-center justify-center py-1 w-full">
-		<Card/>
-		<Card/> 
-		<Card/>
+		<Card id={1}/>
+		<Card id={2}/> 
+		<Card id={3}/>
 	</div>
 </div>
 

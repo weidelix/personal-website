@@ -31,7 +31,7 @@
 </script>
 
 {#if !$$props.initialLoad}
-	<div class="grid place-items-center p-10 antialiased h-full"
+	<div class="grid place-items-center p-10 antialiased h-screen"
 		in:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicOut }}
 		out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
 		<div class="home flex flex-col flex-wrap rounded-3xl shadow-2xl place-content-around w-full h-full">
@@ -77,14 +77,15 @@
 	</div>
 
 {:else}
-	<div class="grid place-items-center page p-10 antialiased h-full"
+	<div class="grid place-items-center page 
+							p-0 md:p-10 antialiased h-screen"
 		out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
-		<div class="home flex flex-col flex-wrap rounded-3xl shadow-2xl place-content-around w-full h-full">
-			<div class="flex flex-col side-one h-full">
+		<div class="home flex flex-col md:flex-row md:flex-wrap md:rounded-3xl shadow-2xl place-content-around w-full h-full">
+			<div class="side-one flex md:flex-col justify-center md:place-content-start md:h-full md:w-1/2">
 				<!-- Temporary -->
-				<div class="image self-center rounded-full shadow-lg my-16"></div>
+				<div class="image md:self-center transform translate-y-2/4 md:translate-y-0 rounded-full shadow-lg md:my-16"></div>
 			</div>
-			<div class="flex flex-col side-two p-7 h-full">
+			<div class="side-two flex flex-col p-7 h-full md:w-1/2">
 				<!-- Home page title -->
 				<div>	
 					<h3 class="sub-title">Hi! I'm</h3>
@@ -133,7 +134,7 @@
 		font-size: 3rem;
 		line-height: 3rem;
 		color: #525252;
-		text-shadow: 1px 1px 3px #bebcbc;
+		/* text-shadow: 1px 1px 3px #bebcbc; */
 	}
 	
 	.sub-title {
@@ -145,12 +146,17 @@
 	
 	.side-one {
 		background-image: linear-gradient(130deg, #f0c433, #eb7b3f);
-		width: 50%;
 	}
-	
 	.side-two {
-		width: 50%;
+			padding-top: 110px;
 	}
+
+	@media (min-width: 768px) {
+		.side-two {
+			padding-top: 1.75rem;
+		}
+	}
+
 	
 	.desc {
 		width: 80%;
@@ -164,7 +170,8 @@
 	.image {
 		border-width: 5px;
 		border-color: white;
-		background-image: url('/assets/img/bg.png');
+		background-color: orange; 
+		/* url('/assets/img/bg.png'); */
 		width: 200px;
 		height: 200px;
 	}

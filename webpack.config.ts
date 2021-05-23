@@ -129,11 +129,11 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 	devServer: {
 		port: 3000,
 		hot: true,
-		// host: ,
+		// host: "192.168.1.227",
 		stats: 'minimal',
 		contentBase: 'public/',
 		watchContentBase: true,
-		writeToDisk: true
+		writeToDisk: true,
 	},
 	mode, 
 	plugins: [
