@@ -127,9 +127,9 @@ const config: webpack.Configuration & WebpackDevServer.Configuration = {
 		],
 	},
 	devServer: {
-		port: 3000,
+		host: '0.0.0.0',
+		public: '192.168.1.227:8080',
 		hot: true,
-		// host: "192.168.1.227",
 		stats: 'minimal',
 		contentBase: 'public/',
 		watchContentBase: true,

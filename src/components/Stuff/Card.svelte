@@ -31,14 +31,11 @@
 	let TITLE = 1;
 	let DESC = 2;
 	let IMG = 3;
-	let y = 0;
 
 	let isMaximized = false;
 	export let title = 'Title';
 	export let desc = 'desc';
 </script>
-
-<svelte:window bind:scrollY={y}/>
 
 <div class="card-min flex flex-wrap justify-center place-items-center gap-4 m-5 w-full h-full">
 	{#if !isMaximized }
@@ -77,7 +74,7 @@
 					backdrop-blur-md w-full h-full"
 		on:click={() => {isMaximized = !isMaximized; $hasMaximizedCard = false; }}
 		on:scroll={e => e.stopPropagation()}
-		style="top: {y}px">
+		style="top: {window.scrollY}px">
 		<div class="card-max-content grid grid-cols-2 self-center
 				place-self-center bold text-5xl 
 				rounded-3xl shadow-lg

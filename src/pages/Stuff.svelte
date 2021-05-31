@@ -1,8 +1,6 @@
 <script lang="ts">
 	import Card, { hasMaximizedCard } from '@components/Stuff/Card.svelte';
 	import Button from '@components/Button.svelte';
-import { onMount } from 'svelte';
-import { loop_guard } from 'svelte/internal';
 
 	let buttons = [
 		{
@@ -36,7 +34,7 @@ import { loop_guard } from 'svelte/internal';
 			<h1 class="title self-center font-black py-2">Stuff  I made</h1>
 			<div class="flex flex-row content-center justify-center self-center w-96">
 				{#each buttons as button, i (button.id)}
-					<div class="justify-self-center w-full"> <!--out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}> -->
+					<div class="justify-self-center mx-2 w-full"> <!--out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}> -->
 						<Button title="{button.title}" link={button.path} color={button.color}><i class="fa {button.label}" aria-hidden="true"></i></Button>
 					</div>
 				{/each}
