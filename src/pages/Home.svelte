@@ -35,10 +35,14 @@
 							p-0 md:p-10 antialiased h-screen"
 		in:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicOut }}
 		out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
-		<div class="home flex flex-col md:flex-row md:flex-wrap md:rounded-3xl shadow-2xl place-content-around w-full h-full">
-			<div class="side-one flex md:flex-col justify-center md:place-content-start md:h-full md:w-1/2">
+		<div class="home flex flex-col md:flex-row 
+								md:flex-wrap md:rounded-3xl shadow-2xl 
+								place-content-around w-full h-full">
+			<div class="side-one flex md:flex-col justify-center 
+									md:place-content-start md:h-full md:w-1/2">
 				<!-- Temporary -->
-				<div class="image md:self-center transform translate-y-2/4 md:translate-y-0 rounded-full shadow-lg md:my-16"></div>
+				<div class="image md:self-center transform translate-y-2/4 
+										md:translate-y-0 rounded-full shadow-lg md:my-16"></div>
 			</div>
 			<div class="side-two flex flex-col p-7 h-full md:w-1/2">
 				<!-- Home page title -->
@@ -80,12 +84,16 @@
 
 {:else}
 	<div class="grid place-items-center page 
-							p-0 md:p-10 antialiased h-screen"
-		out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
-		<div class="home flex flex-col md:flex-row md:flex-wrap md:rounded-3xl shadow-2xl place-content-around w-full h-full">
-			<div class="side-one flex md:flex-col justify-center md:place-content-start md:h-full md:w-1/2">
+				p-0 md:p-10 antialiased h-screen"
+				out:scale={{ start: 0.7, opacity: 0, duration: 300, easing: cubicIn}}>
+		<div class="home flex flex-col md:flex-row md:flex-wrap 
+					md:rounded-3xl shadow-2xl 
+					place-content-around w-full h-full">
+			<div class="side-one flex md:flex-col justify-center 
+						md:place-content-start md:h-full md:w-1/2">
 				<!-- Temporary -->
-				<div class="image md:self-center transform translate-y-2/4 md:translate-y-0 rounded-full shadow-lg md:my-16"></div>
+				<div class="image md:self-center transform translate-y-2/4 
+							md:translate-y-0 rounded-full shadow-lg md:my-16"></div>
 			</div>
 			<div class="side-two flex flex-col p-7 h-full md:w-1/2">
 				<!-- Home page title -->
@@ -103,7 +111,8 @@
 				<div class="flex flex-wrap content-center flex-grow">
 					<div class="flex flex-col w-full h-50 md:w-4/5">
 						{#each buttons as button, i (button.id)}
-							<div class="md:justify-self-start m-2 h-full" out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
+							<div class="md:justify-self-start m-2 h-full" 
+									 out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}>
 								<Button link={button.path} color={button.color}>{button.label}</Button>
 							</div>
 						{/each}
@@ -159,7 +168,6 @@
 			padding-top: 1.75rem;
 		}
 	}
-
 	
 	.desc {
 		width: 80%;
@@ -173,4 +181,4 @@
 		width: 200px;
 		height: 200px;
 	}
-	</style>
+</style>

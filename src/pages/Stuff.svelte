@@ -29,19 +29,21 @@
 
 <div class="p-5 antialiased h-full overflow-y-auto"
 		 on:scroll={e => e.preventDefault()}>
-	<div class="grid antialiased">
+	<div class="grid antialiased w-full">
 		<div class="flex flex-col w-full">
-			<h1 class="title self-center font-black py-2">Stuff  I made</h1>
-			<div class="flex flex-row content-center justify-center self-center w-96">
+			<h1 class="title self-center font-black py-2 md:text-5xl">Stuff  I made</h1>
+			<div class="flex flex-row content-center justify-center self-center w-64 md:w-96">
 				{#each buttons as button, i (button.id)}
 					<div class="justify-self-center mx-2 w-full"> <!--out:scale={{ start: 0.5, opacity: 0, duration: 100 * button.id, easing: cubicIn }}> -->
-						<Button title="{button.title}" link={button.path} color={button.color}><i class="fa {button.label}" aria-hidden="true"></i></Button>
+						<Button title="{button.title}" link={button.path} color={button.color}>
+							<i class="fa {button.label}" aria-hidden="true"></i>
+						</Button>
 					</div>
 				{/each}
 			</div>
 		</div>
 	</div>
-	<div class="flex flex-wrap flex-grow content-center justify-center py-1 w-full">
+	<div class="flex flex-wrap flex-grow content-center justify-center md:py-1 w-full">
 		<Card id={1}/>
 		<Card id={2}/> 
 		<Card id={3}/>
@@ -50,8 +52,6 @@
 
 <style>
 	.title {
-		font-size: 3rem;
-		line-height: 3rem;
 		color: #525252;
 	}
 </style>

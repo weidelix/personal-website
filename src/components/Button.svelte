@@ -5,9 +5,10 @@
 </script>
 
 <a href={link}>
-	<div class="card transition-all rounded-full hover:shadow-xl px-5 w-full h-full" title="{title}" style="background-image: {color}">
-		<div class="flex flex-wrap content-center justify-center p-1 h-full">
-			<h1 class="label font-bold my-2 antialiased"><slot></slot></h1>
+	<div class="card transition-all rounded-full hover:shadow-xl px-0 md:px-5 w-full h-full" 
+			 title="{title}" style="background-image: {color}">
+		<div class="flex flex-wrap content-center justify-center p-1 h-12">
+			<slot></slot>
 		</div>
 	</div>
 </a>
@@ -17,8 +18,4 @@
 		color: white
 		/* height: 30%; Fix later */
 	}
-
-	.label {
-		text-overflow: "...";
-	} 
 </style>
