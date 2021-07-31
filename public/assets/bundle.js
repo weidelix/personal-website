@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "3817e171c21de333511a";
+/******/ 	var hotCurrentHash = "2887f0803585daee8ad1";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -867,7 +867,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(global, setImmediate) {/*!
- * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 (function () {
@@ -1849,7 +1849,7 @@
     "address-book": [448, 512, [], "f2b9", "M436 160c6.6 0 12-5.4 12-12v-40c0-6.6-5.4-12-12-12h-20V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h320c26.5 0 48-21.5 48-48v-48h20c6.6 0 12-5.4 12-12v-40c0-6.6-5.4-12-12-12h-20v-64h20c6.6 0 12-5.4 12-12v-40c0-6.6-5.4-12-12-12h-20v-64h20zm-228-32c35.3 0 64 28.7 64 64s-28.7 64-64 64-64-28.7-64-64 28.7-64 64-64zm112 236.8c0 10.6-10 19.2-22.4 19.2H118.4C106 384 96 375.4 96 364.8v-19.2c0-31.8 30.1-57.6 67.2-57.6h5c12.3 5.1 25.7 8 39.8 8s27.6-2.9 39.8-8h5c37.1 0 67.2 25.8 67.2 57.6v19.2z"],
     "address-card": [576, 512, [], "f2bb", "M528 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h480c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-352 96c35.3 0 64 28.7 64 64s-28.7 64-64 64-64-28.7-64-64 28.7-64 64-64zm112 236.8c0 10.6-10 19.2-22.4 19.2H86.4C74 384 64 375.4 64 364.8v-19.2c0-31.8 30.1-57.6 67.2-57.6h5c12.3 5.1 25.7 8 39.8 8s27.6-2.9 39.8-8h5c37.1 0 67.2 25.8 67.2 57.6v19.2zM512 312c0 4.4-3.6 8-8 8H360c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16zm0-64c0 4.4-3.6 8-8 8H360c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16zm0-64c0 4.4-3.6 8-8 8H360c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16z"],
     "adjust": [512, 512, [], "f042", "M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"],
-    "air-freshener": [512, 512, [], "f5d0", "M224 160H96C43 160 0 203 0 256V480C0 497.625 14.375 512 32 512H288C305.625 512 320 497.625 320 480V256C320 203 277 160 224 160ZM160 416C115.875 416 80 380.125 80 336S115.875 256 160 256S240 291.875 240 336S204.125 416 160 416ZM224 32C224 14.375 209.625 0 192 0H128C110.375 0 96 14.375 96 32V128H224V32ZM381.781 51.578C383 50.969 384 49.359 384 48C384 46.625 383 45.031 381.781 44.422L352 32L339.562 2.219C338.969 1 337.375 0 336 0S333.031 1 332.406 2.219L320 32L290.219 44.422C289 45.031 288 46.625 288 48C288 49.359 289 50.969 290.219 51.578L320 64L332.406 93.781C333.031 95 334.625 96 336 96S338.969 95 339.562 93.781L352 64L381.781 51.578ZM448 64L460.406 93.781C461.031 95 462.625 96 464 96S466.969 95 467.562 93.781L480 64L509.781 51.578C511 50.969 512 49.359 512 48C512 46.625 511 45.031 509.781 44.422L480 32L467.562 2.219C466.969 1 465.375 0 464 0S461.031 1 460.406 2.219L448 32L418.219 44.422C417 45.031 416 46.625 416 48C416 49.359 417 50.969 418.219 51.578L448 64ZM480 224L467.562 194.219C466.969 193 465.375 192 464 192S461.031 193 460.406 194.219L448 224L418.219 236.422C417 237.031 416 238.625 416 240C416 241.359 417 242.969 418.219 243.578L448 256L460.406 285.781C461.031 287 462.625 288 464 288S466.969 287 467.562 285.781L480 256L509.781 243.578C511 242.969 512 241.359 512 240C512 238.625 511 237.031 509.781 236.422L480 224ZM445.781 147.578C447 146.969 448 145.359 448 144C448 142.625 447 141.031 445.781 140.422L416 128L403.562 98.219C402.969 97 401.375 96 400 96S397.031 97 396.406 98.219L384 128L354.219 140.422C353 141.031 352 142.625 352 144C352 145.359 353 146.969 354.219 147.578L384 160L396.406 189.781C397.031 191 398.625 192 400 192S402.969 191 403.562 189.781L416 160L445.781 147.578Z"],
+    "air-freshener": [384, 512, [], "f5d0", "M378.94 321.41L284.7 224h49.22c15.3 0 23.66-16.6 13.86-27.53L234.45 69.96c3.43-6.61 5.55-14 5.55-21.96 0-26.51-21.49-48-48-48s-48 21.49-48 48c0 7.96 2.12 15.35 5.55 21.96L36.22 196.47C26.42 207.4 34.78 224 50.08 224H99.3L5.06 321.41C-6.69 333.56 3.34 352 21.7 352H160v32H48c-8.84 0-16 7.16-16 16v96c0 8.84 7.16 16 16 16h288c8.84 0 16-7.16 16-16v-96c0-8.84-7.16-16-16-16H224v-32h138.3c18.36 0 28.39-18.44 16.64-30.59zM192 31.98c8.85 0 16.02 7.17 16.02 16.02 0 8.84-7.17 16.02-16.02 16.02S175.98 56.84 175.98 48c0-8.85 7.17-16.02 16.02-16.02zM304 432v32H80v-32h224z"],
     "align-center": [448, 512, [], "f037", "M432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM108.1 96h231.81A12.09 12.09 0 0 0 352 83.9V44.09A12.09 12.09 0 0 0 339.91 32H108.1A12.09 12.09 0 0 0 96 44.09V83.9A12.1 12.1 0 0 0 108.1 96zm231.81 256A12.09 12.09 0 0 0 352 339.9v-39.81A12.09 12.09 0 0 0 339.91 288H108.1A12.09 12.09 0 0 0 96 300.09v39.81a12.1 12.1 0 0 0 12.1 12.1z"],
     "align-justify": [448, 512, [], "f039", "M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"],
     "align-left": [448, 512, [], "f036", "M12.83 352h262.34A12.82 12.82 0 0 0 288 339.17v-38.34A12.82 12.82 0 0 0 275.17 288H12.83A12.82 12.82 0 0 0 0 300.83v38.34A12.82 12.82 0 0 0 12.83 352zm0-256h262.34A12.82 12.82 0 0 0 288 83.17V44.83A12.82 12.82 0 0 0 275.17 32H12.83A12.82 12.82 0 0 0 0 44.83v38.34A12.82 12.82 0 0 0 12.83 96zM432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"],
@@ -3961,7 +3961,7 @@
     mark: noop$1,
     measure: noop$1
   };
-  var preamble = "FA \"5.15.3\"";
+  var preamble = "FA \"5.15.2\"";
 
   var begin = function begin(name) {
     p.mark("".concat(preamble, " ").concat(name, " begins"));
@@ -6542,6 +6542,25 @@ var XmlEntities = /** @class */ (function () {
     return XmlEntities;
 }());
 exports.XmlEntities = XmlEntities;
+
+
+/***/ }),
+
+/***/ "./node_modules/is-plain-obj/index.js":
+/*!********************************************!*\
+  !*** ./node_modules/is-plain-obj/index.js ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var toString = Object.prototype.toString;
+
+module.exports = function (x) {
+	var prototype;
+	return toString.call(x) === '[object Object]' && (prototype = Object.getPrototypeOf(x), prototype === null || prototype === Object.getPrototypeOf({}));
+};
 
 
 /***/ }),
@@ -9946,7 +9965,7 @@ exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "./node
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {var require;var require;/* sockjs-client v1.5.1 | http://sockjs.org | MIT license */
+/* WEBPACK VAR INJECTION */(function(global) {var require;var require;/* sockjs-client v1.5.0 | http://sockjs.org | MIT license */
 (function(f){if(true){module.exports=f()}else { var g; }})(function(){var define,module,exports;return (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return require(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 (function (global){
 'use strict';
@@ -13684,7 +13703,7 @@ module.exports = {
 }).call(this,{ env: {} })
 
 },{"debug":55,"url-parse":61}],53:[function(require,module,exports){
-module.exports = '1.5.1';
+module.exports = '1.5.0';
 
 },{}],54:[function(require,module,exports){
 /**
@@ -15424,8 +15443,8 @@ module.exports = function required(port, protocol) {
 
 var required = require('requires-port')
   , qs = require('querystringify')
-  , slashes = /^[A-Za-z][A-Za-z0-9+-.]*:[\\/]+/
-  , protocolre = /^([a-z][a-z0-9.+-]*:)?([\\/]{1,})?([\S\s]*)/i
+  , slashes = /^[A-Za-z][A-Za-z0-9+-.]*:\/\//
+  , protocolre = /^([a-z][a-z0-9.+-]*:)?(\/\/)?([\S\s]*)/i
   , whitespace = '[\\x09\\x0A\\x0B\\x0C\\x0D\\x20\\xA0\\u1680\\u180E\\u2000\\u2001\\u2002\\u2003\\u2004\\u2005\\u2006\\u2007\\u2008\\u2009\\u200A\\u202F\\u205F\\u3000\\u2028\\u2029\\uFEFF]'
   , left = new RegExp('^'+ whitespace +'+');
 
@@ -15537,16 +15556,12 @@ function lolcation(loc) {
  */
 function extractProtocol(address) {
   address = trimLeft(address);
-
-  var match = protocolre.exec(address)
-    , protocol = match[1] ? match[1].toLowerCase() : ''
-    , slashes = !!(match[2] && match[2].length >= 2)
-    , rest =  match[2] && match[2].length === 1 ? '/' + match[3] : match[3];
+  var match = protocolre.exec(address);
 
   return {
-    protocol: protocol,
-    slashes: slashes,
-    rest: rest
+    protocol: match[1] ? match[1].toLowerCase() : '',
+    slashes: !!match[2],
+    rest: match[3]
   };
 }
 
@@ -15704,14 +15719,6 @@ function Url(address, location, parser) {
     && (url.pathname !== '' || location.pathname !== '')
   ) {
     url.pathname = resolve(url.pathname, location.pathname);
-  }
-
-  //
-  // Default to a / for pathname if none exists. This normalizes the URL
-  // to always have a /
-  //
-  if (url.pathname.charAt(0) !== '/' && url.hostname) {
-    url.pathname = '/' + url.pathname;
   }
 
   //
@@ -15904,7 +15911,7 @@ module.exports = Url;
 
 "use strict";
 
-var isPlainObj = __webpack_require__(/*! is-plain-obj */ "./node_modules/sort-keys/node_modules/is-plain-obj/index.js");
+var isPlainObj = __webpack_require__(/*! is-plain-obj */ "./node_modules/is-plain-obj/index.js");
 
 module.exports = function (obj, opts) {
 	if (!isPlainObj(obj)) {
@@ -15946,25 +15953,6 @@ module.exports = function (obj, opts) {
 	};
 
 	return sortKeys(obj);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/sort-keys/node_modules/is-plain-obj/index.js":
-/*!*******************************************************************!*\
-  !*** ./node_modules/sort-keys/node_modules/is-plain-obj/index.js ***!
-  \*******************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var toString = Object.prototype.toString;
-
-module.exports = function (x) {
-	var prototype;
-	return toString.call(x) === '[object Object]' && (prototype = Object.getPrototypeOf(x), prototype === null || prototype === Object.getPrototypeOf({}));
 };
 
 
@@ -17392,7 +17380,7 @@ __webpack_require__.r(__webpack_exports__);
 /*!************************************************!*\
   !*** ./node_modules/svelte/internal/index.mjs ***!
   \************************************************/
-/*! exports provided: HtmlTag, SvelteComponent, SvelteComponentDev, SvelteComponentTyped, SvelteElement, action_destroyer, add_attribute, add_classes, add_flush_callback, add_location, add_render_callback, add_resize_listener, add_transform, afterUpdate, append, append_dev, assign, attr, attr_dev, attribute_to_object, beforeUpdate, bind, binding_callbacks, blank_object, bubble, check_outros, children, claim_component, claim_element, claim_space, claim_text, clear_loops, component_subscribe, compute_rest_props, compute_slots, createEventDispatcher, create_animation, create_bidirectional_transition, create_component, create_in_transition, create_out_transition, create_slot, create_ssr_component, current_component, custom_event, dataset_dev, debug, destroy_block, destroy_component, destroy_each, detach, detach_after_dev, detach_before_dev, detach_between_dev, detach_dev, dirty_components, dispatch_dev, each, element, element_is, empty, end_hydrating, escape, escaped, exclude_internal_props, fix_and_destroy_block, fix_and_outro_and_destroy_block, fix_position, flush, getContext, get_binding_group_value, get_current_component, get_custom_elements_slots, get_slot_changes, get_slot_context, get_spread_object, get_spread_update, get_store_value, globals, group_outros, handle_promise, hasContext, has_prop, identity, init, insert, insert_dev, intros, invalid_attribute_name_character, is_client, is_crossorigin, is_empty, is_function, is_promise, listen, listen_dev, loop, loop_guard, missing_component, mount_component, noop, not_equal, now, null_to_empty, object_without_properties, onDestroy, onMount, once, outro_and_destroy_block, prevent_default, prop_dev, query_selector_all, raf, run, run_all, safe_not_equal, schedule_update, select_multiple_value, select_option, select_options, select_value, self, setContext, set_attributes, set_current_component, set_custom_element_data, set_data, set_data_dev, set_input_type, set_input_value, set_now, set_raf, set_store_value, set_style, set_svg_attributes, space, spread, start_hydrating, stop_propagation, subscribe, svg_element, text, tick, time_ranges_to_array, to_number, toggle_class, transition_in, transition_out, update_await_block_branch, update_keyed_each, update_slot, update_slot_spread, validate_component, validate_each_argument, validate_each_keys, validate_slots, validate_store, xlink_attr */
+/*! exports provided: HtmlTag, SvelteComponent, SvelteComponentDev, SvelteComponentTyped, SvelteElement, action_destroyer, add_attribute, add_classes, add_flush_callback, add_location, add_render_callback, add_resize_listener, add_transform, afterUpdate, append, append_dev, assign, attr, attr_dev, attribute_to_object, beforeUpdate, bind, binding_callbacks, blank_object, bubble, check_outros, children, claim_component, claim_element, claim_space, claim_text, clear_loops, component_subscribe, compute_rest_props, compute_slots, createEventDispatcher, create_animation, create_bidirectional_transition, create_component, create_in_transition, create_out_transition, create_slot, create_ssr_component, current_component, custom_event, dataset_dev, debug, destroy_block, destroy_component, destroy_each, detach, detach_after_dev, detach_before_dev, detach_between_dev, detach_dev, dirty_components, dispatch_dev, each, element, element_is, empty, escape, escaped, exclude_internal_props, fix_and_destroy_block, fix_and_outro_and_destroy_block, fix_position, flush, getContext, get_binding_group_value, get_current_component, get_custom_elements_slots, get_slot_changes, get_slot_context, get_spread_object, get_spread_update, get_store_value, globals, group_outros, handle_promise, hasContext, has_prop, identity, init, insert, insert_dev, intros, invalid_attribute_name_character, is_client, is_crossorigin, is_empty, is_function, is_promise, listen, listen_dev, loop, loop_guard, missing_component, mount_component, noop, not_equal, now, null_to_empty, object_without_properties, onDestroy, onMount, once, outro_and_destroy_block, prevent_default, prop_dev, query_selector_all, raf, run, run_all, safe_not_equal, schedule_update, select_multiple_value, select_option, select_options, select_value, self, setContext, set_attributes, set_current_component, set_custom_element_data, set_data, set_data_dev, set_input_type, set_input_value, set_now, set_raf, set_store_value, set_style, set_svg_attributes, space, spread, stop_propagation, subscribe, svg_element, text, tick, time_ranges_to_array, to_number, toggle_class, transition_in, transition_out, update_keyed_each, update_slot, update_slot_spread, validate_component, validate_each_argument, validate_each_keys, validate_slots, validate_store, xlink_attr */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17458,7 +17446,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "element", function() { return element; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "element_is", function() { return element_is; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "empty", function() { return empty; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "end_hydrating", function() { return end_hydrating; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "escape", function() { return escape; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "escaped", function() { return escaped; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "exclude_internal_props", function() { return exclude_internal_props; });
@@ -17534,7 +17521,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "set_svg_attributes", function() { return set_svg_attributes; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "space", function() { return space; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "spread", function() { return spread; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "start_hydrating", function() { return start_hydrating; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "stop_propagation", function() { return stop_propagation; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "subscribe", function() { return subscribe; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "svg_element", function() { return svg_element; });
@@ -17545,7 +17531,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "toggle_class", function() { return toggle_class; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "transition_in", function() { return transition_in; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "transition_out", function() { return transition_out; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "update_await_block_branch", function() { return update_await_block_branch; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "update_keyed_each", function() { return update_keyed_each; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "update_slot", function() { return update_slot; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "update_slot_spread", function() { return update_slot_spread; });
@@ -17746,43 +17731,14 @@ function loop(callback) {
     };
 }
 
-// Track which nodes are claimed during hydration. Unclaimed nodes can then be removed from the DOM
-// at the end of hydration without touching the remaining nodes.
-let is_hydrating = false;
-const nodes_to_detach = new Set();
-function start_hydrating() {
-    is_hydrating = true;
-}
-function end_hydrating() {
-    is_hydrating = false;
-    for (const node of nodes_to_detach) {
-        node.parentNode.removeChild(node);
-    }
-    nodes_to_detach.clear();
-}
 function append(target, node) {
-    if (is_hydrating) {
-        nodes_to_detach.delete(node);
-    }
-    if (node.parentNode !== target) {
-        target.appendChild(node);
-    }
+    target.appendChild(node);
 }
 function insert(target, node, anchor) {
-    if (is_hydrating) {
-        nodes_to_detach.delete(node);
-    }
-    if (node.parentNode !== target || (anchor && node.nextSibling !== anchor)) {
-        target.insertBefore(node, anchor || null);
-    }
+    target.insertBefore(node, anchor || null);
 }
 function detach(node) {
-    if (is_hydrating) {
-        nodes_to_detach.add(node);
-    }
-    else if (node.parentNode) {
-        node.parentNode.removeChild(node);
-    }
+    node.parentNode.removeChild(node);
 }
 function destroy_each(iterations, detaching) {
     for (let i = 0; i < iterations.length; i += 1) {
@@ -17879,7 +17835,7 @@ function set_svg_attributes(node, attributes) {
 }
 function set_custom_element_data(node, prop, value) {
     if (prop in node) {
-        node[prop] = typeof node[prop] === 'boolean' && value === '' ? true : value;
+        node[prop] = value;
     }
     else {
         attr(node, prop, value);
@@ -17913,8 +17869,8 @@ function children(element) {
     return Array.from(element.childNodes);
 }
 function claim_element(nodes, name, attributes, svg) {
-    while (nodes.length > 0) {
-        const node = nodes.shift();
+    for (let i = 0; i < nodes.length; i += 1) {
+        const node = nodes[i];
         if (node.nodeName === name) {
             let j = 0;
             const remove = [];
@@ -17927,10 +17883,7 @@ function claim_element(nodes, name, attributes, svg) {
             for (let k = 0; k < remove.length; k++) {
                 node.removeAttribute(remove[k]);
             }
-            return node;
-        }
-        else {
-            detach(node);
+            return nodes.splice(i, 1)[0];
         }
     }
     return svg ? svg_element(name) : element(name);
@@ -17940,7 +17893,7 @@ function claim_text(nodes, data) {
         const node = nodes[i];
         if (node.nodeType === 3) {
             node.data = '' + data;
-            return nodes.shift();
+            return nodes.splice(i, 1)[0];
         }
     }
     return text(data);
@@ -18700,17 +18653,6 @@ function handle_promise(promise, info) {
         info.resolved = promise;
     }
 }
-function update_await_block_branch(info, ctx, dirty) {
-    const child_ctx = ctx.slice();
-    const { resolved } = info;
-    if (info.current === info.then) {
-        child_ctx[info.value] = resolved;
-    }
-    if (info.current === info.catch) {
-        child_ctx[info.error] = resolved;
-    }
-    info.block.p(child_ctx, dirty);
-}
 
 const globals = (typeof window !== 'undefined'
     ? window
@@ -18951,11 +18893,11 @@ function debug(file, line, column, values) {
 }
 let on_destroy;
 function create_ssr_component(fn) {
-    function $$render(result, props, bindings, slots, context) {
+    function $$render(result, props, bindings, slots) {
         const parent_component = current_component;
         const $$ = {
             on_destroy,
-            context: new Map(parent_component ? parent_component.$$.context : context || []),
+            context: new Map(parent_component ? parent_component.$$.context : []),
             // these will be immediately discarded
             on_mount: [],
             before_update: [],
@@ -18968,10 +18910,10 @@ function create_ssr_component(fn) {
         return html;
     }
     return {
-        render: (props = {}, { $$slots = {}, context = new Map() } = {}) => {
+        render: (props = {}, options = {}) => {
             on_destroy = [];
             const result = { title: '', head: '', css: new Set() };
-            const html = $$render(result, props, {}, $$slots, context);
+            const html = $$render(result, props, {}, options);
             run_all(on_destroy);
             return {
                 html,
@@ -19063,7 +19005,7 @@ function init(component, options, instance, create_fragment, not_equal, props, d
         on_disconnect: [],
         before_update: [],
         after_update: [],
-        context: new Map(parent_component ? parent_component.$$.context : options.context || []),
+        context: new Map(parent_component ? parent_component.$$.context : []),
         // everything else
         callbacks: blank_object(),
         dirty,
@@ -19089,7 +19031,6 @@ function init(component, options, instance, create_fragment, not_equal, props, d
     $$.fragment = create_fragment ? create_fragment($$.ctx) : false;
     if (options.target) {
         if (options.hydrate) {
-            start_hydrating();
             const nodes = children(options.target);
             // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
             $$.fragment && $$.fragment.l(nodes);
@@ -19102,7 +19043,6 @@ function init(component, options, instance, create_fragment, not_equal, props, d
         if (options.intro)
             transition_in(component.$$.fragment);
         mount_component(component, options.target, options.anchor, options.customElement);
-        end_hydrating();
         flush();
     }
     set_current_component(parent_component);
@@ -19179,7 +19119,7 @@ class SvelteComponent {
 }
 
 function dispatch_dev(type, detail) {
-    document.dispatchEvent(custom_event(type, Object.assign({ version: '3.38.0' }, detail)));
+    document.dispatchEvent(custom_event(type, Object.assign({ version: '3.35.0' }, detail)));
 }
 function append_dev(target, node) {
     dispatch_dev('SvelteDOMInsert', { target, node });
@@ -20626,10 +20566,10 @@ module.exports = /*#__PURE__*/function (_BaseClient) {
 
 /***/ }),
 
-/***/ "./node_modules/webpack-dev-server/client/index.js?https://192.168.1.13:3000":
-/*!*************************************************************!*\
-  !*** (webpack)-dev-server/client?https://192.168.1.13:3000 ***!
-  \*************************************************************/
+/***/ "./node_modules/webpack-dev-server/client/index.js?https://0.0.0.0:3000":
+/*!********************************************************!*\
+  !*** (webpack)-dev-server/client?https://0.0.0.0:3000 ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20810,7 +20750,7 @@ var onSocketMessage = {
   }
 };
 socket(socketUrl, onSocketMessage);
-/* WEBPACK VAR INJECTION */}.call(this, "?https://192.168.1.13:3000"))
+/* WEBPACK VAR INJECTION */}.call(this, "?https://0.0.0.0:3000"))
 
 /***/ }),
 
@@ -21682,9 +21622,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _pages_Home_svelte__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @pages/Home.svelte */ "./src/pages/Home.svelte");
 /* harmony import */ var _pages_About_svelte__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @pages/About.svelte */ "./src/pages/About.svelte");
 /* harmony import */ var _pages_Stuff_svelte__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @pages/Stuff.svelte */ "./src/pages/Stuff.svelte");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/App.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\App.svelte generated by Svelte v3.35.0 */
 
 
 
@@ -21693,12 +21633,12 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const file = "src/App.svelte";
+const file = "src\\App.svelte";
 
 function add_css() {
 	var style = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("style");
 	style.id = "svelte-zdf2o9-style";
-	style.textContent = "@import '@fortawesome/fontawesome-free/css/all.css';main.svelte-zdf2o9{height:100%;width:100%;background-color:rgb(240, 240, 240)}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQXBwLnN2ZWx0ZSIsInNvdXJjZXMiOlsiQXBwLnN2ZWx0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyI8c2NyaXB0IGxhbmc9XCJ0c1wiPmltcG9ydCBSb3V0ZXIgZnJvbSAnQHBhZ2VyL1JvdXRlci5zdmVsdGUnO1xuaW1wb3J0IFJvdXRlIGZyb20gJ0BwYWdlci9Sb3V0ZS5zdmVsdGUnO1xuaW1wb3J0IE5vdEZvdW5kIGZyb20gJ0BwYWdlci9Ob3RGb3VuZC5zdmVsdGUnO1xuaW1wb3J0IEhvbWUgZnJvbSAnQHBhZ2VzL0hvbWUuc3ZlbHRlJztcbmltcG9ydCBBYm91dCBmcm9tICdAcGFnZXMvQWJvdXQuc3ZlbHRlJztcbmltcG9ydCBTdHVmZiBmcm9tICdAcGFnZXMvU3R1ZmYuc3ZlbHRlJztcbmxldCBpbml0aWFsTG9hZCA9IHRydWU7XG4vLyBUT0RPOiBcbi8vIE1ha2UgY29sb3JzIG1vcmUgdmlicmFudFxuLy8gUGhvdG8gZm9yIGhvbWVwYWdlXG4vLyBBZGQgc291bmQgZWZmZWN0c1xuLy8gQWRkIGZsdWlkIGFuaW1hdGlvbnNcbi8vIEZpbmFsaXplIGRlc2lnblxuLy8gUmVtb3ZlIHNtb290aCBzY3JvbGxpbmdcbmZ1bmN0aW9uIHNldEluaXRpYWxMb2FkKCkge1xuICAgIGluaXRpYWxMb2FkID0gZmFsc2U7XG59XG48L3NjcmlwdD5cblxuPG1haW4+XG5cdDxSb3V0ZXI+XG5cdFx0PFJvdXRlIHBhdGg9XCIvXCIgY29tcG9uZW50PXtIb21lfSB7aW5pdGlhbExvYWR9IHtzZXRJbml0aWFsTG9hZH0vPlxuXHRcdDxSb3V0ZSBwYXRoPVwiL3N0dWZmXCIgY29tcG9uZW50PXtTdHVmZn0ge2luaXRpYWxMb2FkfSB7c2V0SW5pdGlhbExvYWR9Lz5cblx0XHQ8Um91dGUgcGF0aD1cIi9hYm91dFwiIGNvbXBvbmVudD17QWJvdXR9IHtpbml0aWFsTG9hZH0ge3NldEluaXRpYWxMb2FkfS8+XG5cdFxuXHRcdDxOb3RGb3VuZD5cblx0XHRcdFBhZ2Ugbm90IGZvdW5kLlxuXHRcdDwvTm90Rm91bmQ+IFxuXHQ8L1JvdXRlcj5cbjwvbWFpbj5cblxuPHN0eWxlPlxuXHQvKiBUT0RPOiBJbXBvcnQgdGhlIG9uZXMgSSBvbmx5IG5lZWQgKi9cblx0QGltcG9ydCAnQGZvcnRhd2Vzb21lL2ZvbnRhd2Vzb21lLWZyZWUvY3NzL2FsbC5jc3MnO1xuXG5cdG1haW4ge1xuXHRcdGhlaWdodDogMTAwJTtcblx0XHR3aWR0aDogMTAwJTtcblx0XHRiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMjQwLCAyNDAsIDI0MCk7XG5cdH1cbjwvc3R5bGU+Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWlDQyxRQUFRLDJDQUEyQyxDQUFDLEFBRXBELElBQUksY0FBQyxDQUFDLEFBQ0wsTUFBTSxDQUFFLElBQUksQ0FDWixLQUFLLENBQUUsSUFBSSxDQUNYLGdCQUFnQixDQUFFLElBQUksR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLEFBQ3JDLENBQUMifQ== */";
+	style.textContent = "@import '@fortawesome/fontawesome-free/css/all.css';main.svelte-zdf2o9{height:100%;width:100%;background-color:rgb(240, 240, 240)}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQXBwLnN2ZWx0ZSIsInNvdXJjZXMiOlsiQXBwLnN2ZWx0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyI8c2NyaXB0IGxhbmc9XCJ0c1wiPmltcG9ydCBSb3V0ZXIgZnJvbSAnQHBhZ2VyL1JvdXRlci5zdmVsdGUnO1xyXG5pbXBvcnQgUm91dGUgZnJvbSAnQHBhZ2VyL1JvdXRlLnN2ZWx0ZSc7XHJcbmltcG9ydCBOb3RGb3VuZCBmcm9tICdAcGFnZXIvTm90Rm91bmQuc3ZlbHRlJztcclxuaW1wb3J0IEhvbWUgZnJvbSAnQHBhZ2VzL0hvbWUuc3ZlbHRlJztcclxuaW1wb3J0IEFib3V0IGZyb20gJ0BwYWdlcy9BYm91dC5zdmVsdGUnO1xyXG5pbXBvcnQgU3R1ZmYgZnJvbSAnQHBhZ2VzL1N0dWZmLnN2ZWx0ZSc7XHJcbmxldCBpbml0aWFsTG9hZCA9IHRydWU7XHJcbi8vIFRPRE86IFxyXG4vLyBNYWtlIGNvbG9ycyBtb3JlIHZpYnJhbnRcclxuLy8gUGhvdG8gZm9yIGhvbWVwYWdlXHJcbi8vIEFkZCBzb3VuZCBlZmZlY3RzXHJcbi8vIEFkZCBmbHVpZCBhbmltYXRpb25zXHJcbi8vIEZpbmFsaXplIGRlc2lnblxyXG4vLyBSZW1vdmUgc21vb3RoIHNjcm9sbGluZ1xyXG5mdW5jdGlvbiBzZXRJbml0aWFsTG9hZCgpIHtcclxuICAgIGluaXRpYWxMb2FkID0gZmFsc2U7XHJcbn1cclxuPC9zY3JpcHQ+XHJcblxyXG48bWFpbj5cclxuXHQ8Um91dGVyPlxyXG5cdFx0PFJvdXRlIHBhdGg9XCIvXCIgY29tcG9uZW50PXtIb21lfSB7aW5pdGlhbExvYWR9IHtzZXRJbml0aWFsTG9hZH0vPlxyXG5cdFx0PFJvdXRlIHBhdGg9XCIvc3R1ZmZcIiBjb21wb25lbnQ9e1N0dWZmfSB7aW5pdGlhbExvYWR9IHtzZXRJbml0aWFsTG9hZH0vPlxyXG5cdFx0PFJvdXRlIHBhdGg9XCIvYWJvdXRcIiBjb21wb25lbnQ9e0Fib3V0fSB7aW5pdGlhbExvYWR9IHtzZXRJbml0aWFsTG9hZH0vPlxyXG5cdFxyXG5cdFx0PE5vdEZvdW5kPlxyXG5cdFx0XHRQYWdlIG5vdCBmb3VuZC5cclxuXHRcdDwvTm90Rm91bmQ+IFxyXG5cdDwvUm91dGVyPlxyXG48L21haW4+XHJcblxyXG48c3R5bGU+XHJcblx0LyogVE9ETzogSW1wb3J0IHRoZSBvbmVzIEkgb25seSBuZWVkICovXHJcblx0QGltcG9ydCAnQGZvcnRhd2Vzb21lL2ZvbnRhd2Vzb21lLWZyZWUvY3NzL2FsbC5jc3MnO1xyXG5cclxuXHRtYWluIHtcclxuXHRcdGhlaWdodDogMTAwJTtcclxuXHRcdHdpZHRoOiAxMDAlO1xyXG5cdFx0YmFja2dyb3VuZC1jb2xvcjogcmdiKDI0MCwgMjQwLCAyNDApO1xyXG5cdH1cclxuPC9zdHlsZT4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUNDLFFBQVEsMkNBQTJDLENBQUMsQUFFcEQsSUFBSSxjQUFDLENBQUMsQUFDTCxNQUFNLENBQUUsSUFBSSxDQUNaLEtBQUssQ0FBRSxJQUFJLENBQ1gsZ0JBQWdCLENBQUUsSUFBSSxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQUFDckMsQ0FBQyJ9 */";
 	Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["append_dev"])(document.head, style);
 }
 
@@ -21871,7 +21811,7 @@ function create_fragment(ctx) {
 			main = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("main");
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_component"])(router.$$.fragment);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(main, "class", "svelte-zdf2o9");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(main, file, 19, 0, 511);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(main, file, 19, 0, 530);
 		},
 		l: function claim(nodes) {
 			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -21974,7 +21914,7 @@ class App extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponentD
 		});
 	}
 }
-if (module && module.hot) { App = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_7__["applyHmr"]({ m: module, id: "\"src/App.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: App, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_8__["default"], compileData: {"vars":[{"name":"Router","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"Route","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"NotFound","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"Home","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"About","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"Stuff","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"initialLoad","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"setInitialLoad","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/App.svelte","format":"esm","dev":true}, cssId: "svelte-zdf2o9-style", nonCssHash: "do2ttu", }); }
+if (module && module.hot) { App = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_7__["applyHmr"]({ m: module, id: "\"src\\\\App.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: App, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_8__["default"], compileData: {"vars":[{"name":"Router","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"Route","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"NotFound","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"Home","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"About","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"Stuff","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"initialLoad","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"setInitialLoad","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\App.svelte","format":"esm","dev":true}, cssId: "svelte-zdf2o9-style", nonCssHash: "2yj0pm", }); }
 /* harmony default export */ __webpack_exports__["default"] = (App);
 
 if (typeof add_css !== 'undefined' && !document.getElementById("svelte-zdf2o9-style")) add_css();
@@ -21993,17 +21933,17 @@ if (typeof add_css !== 'undefined' && !document.getElementById("svelte-zdf2o9-st
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var svelte_internal__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! svelte/internal */ "./node_modules/svelte/internal/index.mjs");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/components/Button.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\components\Button.svelte generated by Svelte v3.35.0 */
 
 
-const file = "src/components/Button.svelte";
+const file = "src\\components\\Button.svelte";
 
 function add_css() {
 	var style = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("style");
 	style.id = "svelte-hfwjv8-style";
-	style.textContent = ".card.svelte-hfwjv8{color:white\n\t\t/* height: 30%; Fix later */\n\t}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQnV0dG9uLnN2ZWx0ZSIsInNvdXJjZXMiOlsiQnV0dG9uLnN2ZWx0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyI8c2NyaXB0IGxhbmc9XCJ0c1wiPmV4cG9ydCBsZXQgbGluayA9ICcvJztcbmV4cG9ydCBsZXQgY29sb3IgPSAnd2hpdGUnO1xuZXhwb3J0IGxldCB0aXRsZSA9IFwiXCI7XG48L3NjcmlwdD5cblxuPGEgaHJlZj17bGlua30+XG5cdDxkaXYgY2xhc3M9XCJjYXJkIHRyYW5zaXRpb24tYWxsIHJvdW5kZWQtZnVsbCBob3ZlcjpzaGFkb3cteGwgcHgtMCBtZDpweC01IHctZnVsbCBoLWZ1bGxcIiBcblx0XHRcdCB0aXRsZT1cInt0aXRsZX1cIiBzdHlsZT1cImJhY2tncm91bmQtaW1hZ2U6IHtjb2xvcn1cIj5cblx0XHQ8ZGl2IGNsYXNzPVwiZmxleCBmbGV4LXdyYXAgY29udGVudC1jZW50ZXIganVzdGlmeS1jZW50ZXIgcC0xIGgtMTJcIj5cblx0XHRcdDxzbG90Pjwvc2xvdD5cblx0XHQ8L2Rpdj5cblx0PC9kaXY+XG48L2E+XG5cbjxzdHlsZT5cblx0LmNhcmQge1xuXHRcdGNvbG9yOiB3aGl0ZVxuXHRcdC8qIGhlaWdodDogMzAlOyBGaXggbGF0ZXIgKi9cblx0fVxuPC9zdHlsZT4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBZUMsS0FBSyxjQUFDLENBQUMsQUFDTixLQUFLLENBQUUsS0FBSzs7Q0FFYixDQUFDIn0= */";
+	style.textContent = ".card.svelte-hfwjv8{color:white\r\n\t\t/* height: 30%; Fix later */\r\n\t}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQnV0dG9uLnN2ZWx0ZSIsInNvdXJjZXMiOlsiQnV0dG9uLnN2ZWx0ZSJdLCJzb3VyY2VzQ29udGVudCI6WyI8c2NyaXB0IGxhbmc9XCJ0c1wiPmV4cG9ydCBsZXQgbGluayA9ICcvJztcclxuZXhwb3J0IGxldCBjb2xvciA9ICd3aGl0ZSc7XHJcbmV4cG9ydCBsZXQgdGl0bGUgPSBcIlwiO1xyXG48L3NjcmlwdD5cclxuXHJcbjxhIGhyZWY9e2xpbmt9PlxyXG5cdDxkaXYgY2xhc3M9XCJjYXJkIHRyYW5zaXRpb24tYWxsIHJvdW5kZWQtZnVsbCBob3ZlcjpzaGFkb3cteGwgcHgtMCBtZDpweC01IHctZnVsbCBoLWZ1bGxcIiBcclxuXHRcdFx0IHRpdGxlPVwie3RpdGxlfVwiIHN0eWxlPVwiYmFja2dyb3VuZC1pbWFnZToge2NvbG9yfVwiPlxyXG5cdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC13cmFwIGNvbnRlbnQtY2VudGVyIGp1c3RpZnktY2VudGVyIHAtMSBoLTEyXCI+XHJcblx0XHRcdDxzbG90Pjwvc2xvdD5cclxuXHRcdDwvZGl2PlxyXG5cdDwvZGl2PlxyXG48L2E+XHJcblxyXG48c3R5bGU+XHJcblx0LmNhcmQge1xyXG5cdFx0Y29sb3I6IHdoaXRlXHJcblx0XHQvKiBoZWlnaHQ6IDMwJTsgRml4IGxhdGVyICovXHJcblx0fVxyXG48L3N0eWxlPiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFlQyxLQUFLLGNBQUMsQ0FBQyxBQUNOLEtBQUssQ0FBRSxLQUFLOztDQUViLENBQUMifQ== */";
 	Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["append_dev"])(document.head, style);
 }
 
@@ -22022,13 +21962,13 @@ function create_fragment(ctx) {
 			div0 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("div");
 			if (default_slot) default_slot.c();
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "flex flex-wrap content-center justify-center p-1 h-12");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 8, 2, 267);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 8, 2, 275);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "card transition-all rounded-full hover:shadow-xl px-0 md:px-5 w-full h-full svelte-hfwjv8");
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "title", /*title*/ ctx[2]);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["set_style"])(div1, "background-image", /*color*/ ctx[1]);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 6, 1, 120);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 6, 1, 126);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(a, "href", /*link*/ ctx[0]);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(a, file, 5, 0, 103);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(a, file, 5, 0, 108);
 		},
 		l: function claim(nodes) {
 			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -22046,7 +21986,7 @@ function create_fragment(ctx) {
 		},
 		p: function update(ctx, [dirty]) {
 			if (default_slot) {
-				if (default_slot.p && (!current || dirty & /*$$scope*/ 8)) {
+				if (default_slot.p && dirty & /*$$scope*/ 8) {
 					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["update_slot"])(default_slot, default_slot_template, ctx, /*$$scope*/ ctx[3], dirty, null, null);
 				}
 			}
@@ -22161,7 +22101,7 @@ class Button extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteCompone
 		throw new Error("<Button>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
 	}
 }
-if (module && module.hot) { Button = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__["applyHmr"]({ m: module, id: "\"src/components/Button.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Button, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__["default"], compileData: {"vars":[{"name":"link","export_name":"link","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"color","export_name":"color","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"title","export_name":"title","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/components/Button.svelte","format":"esm","dev":true}, cssId: "svelte-hfwjv8-style", nonCssHash: "19ick81", }); }
+if (module && module.hot) { Button = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__["applyHmr"]({ m: module, id: "\"src\\\\components\\\\Button.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Button, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__["default"], compileData: {"vars":[{"name":"link","export_name":"link","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"color","export_name":"color","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"title","export_name":"title","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\components\\Button.svelte","format":"esm","dev":true}, cssId: "svelte-hfwjv8-style", nonCssHash: "34xskb", }); }
 /* harmony default export */ __webpack_exports__["default"] = (Button);
 
 if (typeof add_css !== 'undefined' && !document.getElementById("svelte-hfwjv8-style")) add_css();
@@ -22184,20 +22124,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var svelte_store__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! svelte/store */ "./node_modules/svelte/store/index.mjs");
 /* harmony import */ var svelte_easing__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! svelte/easing */ "./node_modules/svelte/easing/index.mjs");
 /* harmony import */ var svelte_transition__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! svelte/transition */ "./node_modules/svelte/transition/index.mjs");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/components/Stuff/Card.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\components\Stuff\Card.svelte generated by Svelte v3.35.0 */
 
 
 
 
 
-const file = "src/components/Stuff/Card.svelte";
+const file = "src\\components\\Stuff\\Card.svelte";
 
 function add_css() {
 	var style = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("style");
 	style.id = "svelte-1tvlrii-style";
-	style.textContent = "@media screen and (min-width: 720px){.card-min.svelte-1tvlrii{width:300px;height:420px}.card-min-content.svelte-1tvlrii{width:300px;height:420px;background-image:linear-gradient(to top, rgb(116, 67, 196), rgb(171, 130, 238) 80%)}}.card-min.svelte-1tvlrii{width:250px;height:320px}.card-min-content.svelte-1tvlrii{width:300px;height:320px;background-image:linear-gradient(to top, rgb(116, 67, 196), rgb(171, 130, 238) 80%)}.card-max-content.svelte-1tvlrii{background-image:linear-gradient(to top, rgb(116, 67, 196), rgb(171, 130, 238) 80%)}.proj-img-min.svelte-1tvlrii{height:60%}.proj-img-max.svelte-1tvlrii{width:250px;height:250px}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ2FyZC5zdmVsdGUiLCJzb3VyY2VzIjpbIkNhcmQuc3ZlbHRlIl0sInNvdXJjZXNDb250ZW50IjpbIjxzY3JpcHQgY29udGV4dD1cIm1vZHVsZVwiPlxuXHRpbXBvcnQgeyB3cml0YWJsZSB9IGZyb20gJ3N2ZWx0ZS9zdG9yZSc7XG5cdGV4cG9ydCBjb25zdCBoYXNNYXhpbWl6ZWRDYXJkID0gd3JpdGFibGUoZmFsc2UpO1xuPC9zY3JpcHQ+XG5cbjxzY3JpcHQgbGFuZz1cInRzXCI+aW1wb3J0IHsgY3ViaWNPdXQgfSBmcm9tICdzdmVsdGUvZWFzaW5nJztcbmltcG9ydCB7IGNyb3NzZmFkZSB9IGZyb20gJ3N2ZWx0ZS90cmFuc2l0aW9uJztcbmV4cG9ydCBsZXQgaWQgPSAxO1xuY29uc3QgW3NlbmQsIHJlY2VpdmVdID0gY3Jvc3NmYWRlKHtcbiAgICBkdXJhdGlvbjogMjAwLFxuICAgIGVhc2luZzogY3ViaWNPdXQsXG4gICAgZmFsbGJhY2sobm9kZSwgcGFyYW1zKSB7XG4gICAgICAgIGNvbnN0IHN0eWxlID0gZ2V0Q29tcHV0ZWRTdHlsZShub2RlKTtcbiAgICAgICAgY29uc3QgdHJhbnNmb3JtID0gc3R5bGUudHJhbnNmb3JtID09PSAnbm9uZScgPyAnJyA6IHN0eWxlLnRyYW5zZm9ybTtcbiAgICAgICAgcmV0dXJuIHtcbiAgICAgICAgICAgIGR1cmF0aW9uOiA1MDAgKyAoaWQgKiAxMDApLFxuICAgICAgICAgICAgZWFzaW5nOiBjdWJpY091dCxcbiAgICAgICAgICAgIGNzczogdCA9PiBgXG5cdFx0XHRcdFx0XHR0cmFuc2Zvcm06ICR7dHJhbnNmb3JtfSBzY2FsZSgke3R9KTtcblx0XHRcdFx0XHRcdG9wYWNpdHk6ICR7dH07YFxuICAgICAgICB9O1xuICAgIH1cbn0pO1xubGV0IEJHID0gMDtcbmxldCBUSVRMRSA9IDE7XG5sZXQgREVTQyA9IDI7XG5sZXQgSU1HID0gMztcbmxldCBpc01heGltaXplZCA9IGZhbHNlO1xuZXhwb3J0IGxldCB0aXRsZSA9ICdUaXRsZSc7XG5leHBvcnQgbGV0IGRlc2MgPSAnZGVzYyc7XG48L3NjcmlwdD5cblxuPGRpdiBjbGFzcz1cImNhcmQtbWluIGZsZXggZmxleC13cmFwIGp1c3RpZnktY2VudGVyIHBsYWNlLWl0ZW1zLWNlbnRlciBnYXAtNCBtLTUgdy1mdWxsIGgtZnVsbFwiPlxuXHR7I2lmICFpc01heGltaXplZCB9XG5cdFx0PGRpdiBjbGFzcz1cImNhcmQtbWluLWNvbnRlbnQgdGV4dC13aGl0ZSByb3VuZGVkLTN4bCBzaGFkb3ctMnhsXCJcblx0XHRcdFx0IG9uOmNsaWNrPXsoKSA9PiB7IGlzTWF4aW1pemVkID0gIWlzTWF4aW1pemVkOyAkaGFzTWF4aW1pemVkQ2FyZCA9IHRydWU7IH19XG5cdFx0XHRcdCBpbjpyZWNlaXZlPXt7a2V5OiBCR319XG5cdFx0XHRcdCBvdXQ6c2VuZD17e2tleTogQkd9fT5cblx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4IGZsZXgtY29sIHctZnVsbCBoLWZ1bGxcIj5cblx0XHRcdFx0PGRpdiBjbGFzcz1cInByb2otaW1nLW1pbiBtLTUgYmctd2hpdGUgcm91bmRlZC0zeGxcIlxuXHRcdFx0XHRcdFx0IGluOnJlY2VpdmU9e3trZXk6IElNR319XG5cdFx0XHRcdFx0XHQgb3V0OnNlbmQ9e3trZXk6IElNR319PlxuXHRcdFx0XHQ8L2Rpdj5cblx0XHRcdFx0PGRpdiBjbGFzcz1cImZsZXgtZ3JvdyBncmlkIGdyaWQtY29scy0yIHBsYWNlLWNvbnRlbnQtZW5kIHB4LTUgdy1mdWxsXCI+XG5cdFx0XHRcdFx0PGgxIGNsYXNzPVwiYm9sZCB0ZXh0LTV4bFwiXG5cdFx0XHRcdFx0XHQgXHRpbjpyZWNlaXZlPXt7a2V5OiBUSVRMRX19XG5cdFx0XHRcdFx0XHQgXHRvdXQ6c2VuZD17e2tleTogVElUTEV9fT5cblx0XHRcdFx0XHRcdHt0aXRsZX1cblx0XHRcdFx0XHQ8L2gxPlxuXHRcdFx0XHRcdDxpIGNsYXNzPVwiZmFiIGZhLWdpdGh1YiBwbGFjZS1zZWxmLWNlbnRlciBqdXN0aWZ5LXNlbGYtY2VudGVyIHRleHQtNXhsIHB4LTNcIj48L2k+XG5cdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleC1ncm93IHRleHQteGwgcHgtNSBweS0yXCJcblx0XHRcdFx0XHRcdCBpbjpyZWNlaXZlPXt7a2V5OiBERVNDfX1cblx0XHRcdFx0XHRcdCBvdXQ6c2VuZD17e2tleTogREVTQ319PlxuXHRcdFx0XHRcdDxwIGNsYXNzPVwib3ZlcmZsb3ctaGlkZGVuIGgtMCBtZDpoLWF1dG9cIj5cblx0XHRcdFx0XHRcdHtkZXNjfVxuXHRcdFx0XHRcdDwvcD5cblx0XHRcdFx0PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHQ8L2Rpdj5cblx0ey9pZn1cbjwvZGl2PlxueyNpZiBpc01heGltaXplZH1cblx0PGRpdiBjbGFzcz1cImNhcmQtbWF4IGdyaWQgYWJzb2x1dGUgXG5cdFx0XHRcdFx0XHRcdG92ZXJzY3JvbGwtY29udGFpbiBsZWZ0LTAgdGV4dC13aGl0ZSBcblx0XHRcdFx0XHRcdFx0eyghaXNNYXhpbWl6ZWQgPyAnIGhpZGRlbiAnIDogJyBiYWNrZHJvcC1maWx0ZXIgJyl9XG5cdFx0XHRcdFx0XHRcdGJhY2tkcm9wLWJsdXItbWQgaC1mdWxsXCJcblx0XHRcdCBvbjpjbGljaz17KCkgPT4ge2lzTWF4aW1pemVkID0gIWlzTWF4aW1pemVkOyAkaGFzTWF4aW1pemVkQ2FyZCA9IGZhbHNlOyB9fVxuXHRcdFx0IG9uOnNjcm9sbD17ZSA9PiBlLnN0b3BQcm9wYWdhdGlvbigpfVxuXHRcdFx0IHN0eWxlPVwidG9wOiB7d2luZG93LnNjcm9sbFl9cHhcIj5cblx0XHQ8ZGl2IGNsYXNzPVwiY2FyZC1tYXgtY29udGVudCBncmlkIGdyaWQtY29scy0yIHNlbGYtY2VudGVyXG5cdFx0XHRcdFx0XHRcdFx0cGxhY2Utc2VsZi1jZW50ZXIgYm9sZCB0ZXh0LTV4bCBcblx0XHRcdFx0XHRcdFx0XHRyb3VuZGVkLTN4bCBzaGFkb3ctbGdcblx0XHRcdFx0XHRcdFx0XHRwLTEwIHctMS8yIGgtMS8yXCIgXG5cdFx0XHRpbjpyZWNlaXZlPVwie3trZXk6IEJHfX1cIlxuXHRcdFx0b3V0OnNlbmQ9XCJ7e2tleTogQkd9fVwiXG5cdFx0XHRvbjpjbGljaz17ZSA9PiBlLnN0b3BQcm9wYWdhdGlvbigpfT5cblx0XHRcdDxkaXYgY2xhc3M9XCJwcm9qLWltZy1tYXggcGxhY2Utc2VsZi1jZW50ZXIgcm91bmRlZC1mdWxsIGJnLXdoaXRlXCJcblx0XHRcdFx0XHQgaW46cmVjZWl2ZT17e2tleTogSU1HfX1cblx0XHRcdFx0XHQgb3V0OnNlbmQ9e3trZXk6IElNR319PlxuXHRcdFx0XHRcdFxuXHRcdFx0PC9kaXY+XG5cdFx0XHQ8ZGl2IGNsYXNzPVwibXgtNVwiPlxuXHRcdFx0XHQ8aDEgY2xhc3M9XCJib2xkIHRleHQtNnhsXCJcblx0XHRcdFx0XHRpbjpyZWNlaXZlPXt7a2V5OiBUSVRMRX19XG5cdFx0XHRcdFx0b3V0OnNlbmQ9e3trZXk6IFRJVExFfX0+XG5cdFx0XHRcdFx0e3RpdGxlfVxuXHRcdFx0XHQ8L2gxPlxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleC1ncm93IHRleHQteGwgcHktMlwiXG5cdFx0XHRcdFx0aW46cmVjZWl2ZT17e2tleTogREVTQ319XG5cdFx0XHRcdFx0b3V0OnNlbmQ9e3trZXk6IERFU0N9fT5cblx0XHRcdFx0XHQ8cD5cblx0XHRcdFx0XHRcdHtkZXNjfVxuXHRcdFx0XHRcdDwvcD5cblx0XHRcdFx0PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHQ8L2Rpdj5cblx0PC9kaXY+XG57L2lmfVxuXG48c3R5bGU+XG5cdEBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDcyMHB4KVxuXHR7XG5cdFx0LmNhcmQtbWluIHtcblx0XHRcdFxuXHRcdFx0d2lkdGg6IDMwMHB4O1xuXHRcdFx0aGVpZ2h0OiA0MjBweDtcblx0XHR9XG5cblx0XHQuY2FyZC1taW4tY29udGVudCB7XG5cdFx0XHR3aWR0aDogMzAwcHg7XG5cdFx0XHRoZWlnaHQ6IDQyMHB4O1xuXHRcdFx0YmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHRvIHRvcCwgcmdiKDExNiwgNjcsIDE5NiksIHJnYigxNzEsIDEzMCwgMjM4KSA4MCUpO1xuXHRcdH1cblx0fVxuXG5cdC5jYXJkLW1pbiB7XG5cdFx0d2lkdGg6IDI1MHB4O1xuXHRcdGhlaWdodDogMzIwcHg7XG5cdH1cblxuXHQuY2FyZC1taW4tY29udGVudCB7XG5cdFx0d2lkdGg6IDMwMHB4O1xuXHRcdGhlaWdodDogMzIwcHg7XG5cdFx0YmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KHRvIHRvcCwgcmdiKDExNiwgNjcsIDE5NiksIHJnYigxNzEsIDEzMCwgMjM4KSA4MCUpO1xuXHR9XG5cblx0LyogLmNhcmQtbWF4IHtcblx0fSAqL1xuXG5cdC5jYXJkLW1heC1jb250ZW50IHtcblx0XHRiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQodG8gdG9wLCByZ2IoMTE2LCA2NywgMTk2KSwgcmdiKDE3MSwgMTMwLCAyMzgpIDgwJSk7XG5cdH1cblxuXHQucHJvai1pbWctbWluIHtcblx0XHRoZWlnaHQ6IDYwJTtcblx0fVxuXG5cdC5wcm9qLWltZy1tYXgge1xuXHRcdHdpZHRoOiAyNTBweDtcblx0XHRoZWlnaHQ6IDI1MHB4O1xuXHR9XG48L3N0eWxlPiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFxR0MsT0FBTyxNQUFNLENBQUMsR0FBRyxDQUFDLFlBQVksS0FBSyxDQUFDLEFBQ3BDLENBQUMsQUFDQSxTQUFTLGVBQUMsQ0FBQyxBQUVWLEtBQUssQ0FBRSxLQUFLLENBQ1osTUFBTSxDQUFFLEtBQUssQUFDZCxDQUFDLEFBRUQsaUJBQWlCLGVBQUMsQ0FBQyxBQUNsQixLQUFLLENBQUUsS0FBSyxDQUNaLE1BQU0sQ0FBRSxLQUFLLENBQ2IsZ0JBQWdCLENBQUUsZ0JBQWdCLEVBQUUsQ0FBQyxHQUFHLENBQUMsQ0FBQyxJQUFJLEdBQUcsQ0FBQyxDQUFDLEVBQUUsQ0FBQyxDQUFDLEdBQUcsQ0FBQyxDQUFDLENBQUMsSUFBSSxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQUFDckYsQ0FBQyxBQUNGLENBQUMsQUFFRCxTQUFTLGVBQUMsQ0FBQyxBQUNWLEtBQUssQ0FBRSxLQUFLLENBQ1osTUFBTSxDQUFFLEtBQUssQUFDZCxDQUFDLEFBRUQsaUJBQWlCLGVBQUMsQ0FBQyxBQUNsQixLQUFLLENBQUUsS0FBSyxDQUNaLE1BQU0sQ0FBRSxLQUFLLENBQ2IsZ0JBQWdCLENBQUUsZ0JBQWdCLEVBQUUsQ0FBQyxHQUFHLENBQUMsQ0FBQyxJQUFJLEdBQUcsQ0FBQyxDQUFDLEVBQUUsQ0FBQyxDQUFDLEdBQUcsQ0FBQyxDQUFDLENBQUMsSUFBSSxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQUFDckYsQ0FBQyxBQUtELGlCQUFpQixlQUFDLENBQUMsQUFDbEIsZ0JBQWdCLENBQUUsZ0JBQWdCLEVBQUUsQ0FBQyxHQUFHLENBQUMsQ0FBQyxJQUFJLEdBQUcsQ0FBQyxDQUFDLEVBQUUsQ0FBQyxDQUFDLEdBQUcsQ0FBQyxDQUFDLENBQUMsSUFBSSxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxHQUFHLENBQUMsQUFDckYsQ0FBQyxBQUVELGFBQWEsZUFBQyxDQUFDLEFBQ2QsTUFBTSxDQUFFLEdBQUcsQUFDWixDQUFDLEFBRUQsYUFBYSxlQUFDLENBQUMsQUFDZCxLQUFLLENBQUUsS0FBSyxDQUNaLE1BQU0sQ0FBRSxLQUFLLEFBQ2QsQ0FBQyJ9 */";
+	style.textContent = "@media screen and (min-width: 720px){.card-min.svelte-1tvlrii{width:300px;height:420px}.card-min-content.svelte-1tvlrii{width:300px;height:420px;background-image:linear-gradient(to top, rgb(116, 67, 196), rgb(171, 130, 238) 80%)}}.card-min.svelte-1tvlrii{width:250px;height:320px}.card-min-content.svelte-1tvlrii{width:300px;height:320px;background-image:linear-gradient(to top, rgb(116, 67, 196), rgb(171, 130, 238) 80%)}.card-max-content.svelte-1tvlrii{background-image:linear-gradient(to top, rgb(116, 67, 196), rgb(171, 130, 238) 80%)}.proj-img-min.svelte-1tvlrii{height:60%}.proj-img-max.svelte-1tvlrii{width:250px;height:250px}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ2FyZC5zdmVsdGUiLCJzb3VyY2VzIjpbIkNhcmQuc3ZlbHRlIl0sInNvdXJjZXNDb250ZW50IjpbIjxzY3JpcHQgY29udGV4dD1cIm1vZHVsZVwiPlxyXG5cdGltcG9ydCB7IHdyaXRhYmxlIH0gZnJvbSAnc3ZlbHRlL3N0b3JlJztcclxuXHRleHBvcnQgY29uc3QgaGFzTWF4aW1pemVkQ2FyZCA9IHdyaXRhYmxlKGZhbHNlKTtcclxuPC9zY3JpcHQ+XHJcblxyXG48c2NyaXB0IGxhbmc9XCJ0c1wiPmltcG9ydCB7IGN1YmljT3V0IH0gZnJvbSAnc3ZlbHRlL2Vhc2luZyc7XHJcbmltcG9ydCB7IGNyb3NzZmFkZSB9IGZyb20gJ3N2ZWx0ZS90cmFuc2l0aW9uJztcclxuZXhwb3J0IGxldCBpZCA9IDE7XHJcbmNvbnN0IFtzZW5kLCByZWNlaXZlXSA9IGNyb3NzZmFkZSh7XHJcbiAgICBkdXJhdGlvbjogMjAwLFxyXG4gICAgZWFzaW5nOiBjdWJpY091dCxcclxuICAgIGZhbGxiYWNrKG5vZGUsIHBhcmFtcykge1xyXG4gICAgICAgIGNvbnN0IHN0eWxlID0gZ2V0Q29tcHV0ZWRTdHlsZShub2RlKTtcclxuICAgICAgICBjb25zdCB0cmFuc2Zvcm0gPSBzdHlsZS50cmFuc2Zvcm0gPT09ICdub25lJyA/ICcnIDogc3R5bGUudHJhbnNmb3JtO1xyXG4gICAgICAgIHJldHVybiB7XHJcbiAgICAgICAgICAgIGR1cmF0aW9uOiA1MDAgKyAoaWQgKiAxMDApLFxyXG4gICAgICAgICAgICBlYXNpbmc6IGN1YmljT3V0LFxyXG4gICAgICAgICAgICBjc3M6IHQgPT4gYFxyXG5cdFx0XHRcdFx0XHR0cmFuc2Zvcm06ICR7dHJhbnNmb3JtfSBzY2FsZSgke3R9KTtcclxuXHRcdFx0XHRcdFx0b3BhY2l0eTogJHt0fTtgXHJcbiAgICAgICAgfTtcclxuICAgIH1cclxufSk7XHJcbmNvbnN0IEJHID0gMDtcclxuY29uc3QgVElUTEUgPSAxO1xyXG5jb25zdCBERVNDID0gMjtcclxuY29uc3QgSU1HID0gMztcclxubGV0IGlzTWF4aW1pemVkID0gZmFsc2U7XHJcbmV4cG9ydCBsZXQgdGl0bGUgPSAnVGl0bGUnO1xyXG5leHBvcnQgbGV0IGRlc2MgPSAnZGVzYyc7XHJcbjwvc2NyaXB0PlxyXG5cclxuPGRpdiBjbGFzcz1cImNhcmQtbWluIGZsZXggZmxleC13cmFwIGp1c3RpZnktY2VudGVyIHBsYWNlLWl0ZW1zLWNlbnRlciBnYXAtNCBtLTUgdy1mdWxsIGgtZnVsbFwiPlxyXG5cdHsjaWYgIWlzTWF4aW1pemVkIH1cclxuXHRcdDxkaXYgY2xhc3M9XCJjYXJkLW1pbi1jb250ZW50IHRleHQtd2hpdGUgcm91bmRlZC0zeGwgc2hhZG93LTJ4bFwiXHJcblx0XHRcdFx0IG9uOmNsaWNrPXsoKSA9PiB7IGlzTWF4aW1pemVkID0gIWlzTWF4aW1pemVkOyAkaGFzTWF4aW1pemVkQ2FyZCA9IHRydWU7IH19XHJcblx0XHRcdFx0IGluOnJlY2VpdmU9e3trZXk6IEJHfX1cclxuXHRcdFx0XHQgb3V0OnNlbmQ9e3trZXk6IEJHfX0+XHJcblx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4IGZsZXgtY29sIHctZnVsbCBoLWZ1bGxcIj5cclxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwicHJvai1pbWctbWluIG0tNSBiZy13aGl0ZSByb3VuZGVkLTN4bFwiXHJcblx0XHRcdFx0XHRcdCBpbjpyZWNlaXZlPXt7a2V5OiBJTUd9fVxyXG5cdFx0XHRcdFx0XHQgb3V0OnNlbmQ9e3trZXk6IElNR319PlxyXG5cdFx0XHRcdDwvZGl2PlxyXG5cdFx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4LWdyb3cgZ3JpZCBncmlkLWNvbHMtMiBwbGFjZS1jb250ZW50LWVuZCBweC01IHctZnVsbFwiPlxyXG5cdFx0XHRcdFx0PGgxIGNsYXNzPVwiYm9sZCB0ZXh0LTV4bFwiXHJcblx0XHRcdFx0XHRcdCBcdGluOnJlY2VpdmU9e3trZXk6IFRJVExFfX1cclxuXHRcdFx0XHRcdFx0IFx0b3V0OnNlbmQ9e3trZXk6IFRJVExFfX0+XHJcblx0XHRcdFx0XHRcdHt0aXRsZX1cclxuXHRcdFx0XHRcdDwvaDE+XHJcblx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhYiBmYS1naXRodWIgcGxhY2Utc2VsZi1jZW50ZXIganVzdGlmeS1zZWxmLWNlbnRlciB0ZXh0LTV4bCBweC0zXCI+PC9pPlxyXG5cdFx0XHRcdDwvZGl2PlxyXG5cdFx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4LWdyb3cgdGV4dC14bCBweC01IHB5LTJcIlxyXG5cdFx0XHRcdFx0XHQgaW46cmVjZWl2ZT17e2tleTogREVTQ319XHJcblx0XHRcdFx0XHRcdCBvdXQ6c2VuZD17e2tleTogREVTQ319PlxyXG5cdFx0XHRcdFx0PHAgY2xhc3M9XCJvdmVyZmxvdy1oaWRkZW4gaC0wIG1kOmgtYXV0b1wiPlxyXG5cdFx0XHRcdFx0XHR7ZGVzY31cclxuXHRcdFx0XHRcdDwvcD5cclxuXHRcdFx0XHQ8L2Rpdj5cclxuXHRcdFx0PC9kaXY+XHJcblx0XHQ8L2Rpdj5cclxuXHR7L2lmfVxyXG48L2Rpdj5cclxueyNpZiBpc01heGltaXplZH1cclxuXHQ8ZGl2IGNsYXNzPVwiY2FyZC1tYXggZ3JpZCBhYnNvbHV0ZSBcclxuXHRcdFx0XHRcdFx0XHRvdmVyc2Nyb2xsLWNvbnRhaW4gbGVmdC0wIHRleHQtd2hpdGUgXHJcblx0XHRcdFx0XHRcdFx0eyghaXNNYXhpbWl6ZWQgPyAnIGhpZGRlbiAnIDogJyBiYWNrZHJvcC1maWx0ZXIgJyl9XHJcblx0XHRcdFx0XHRcdFx0YmFja2Ryb3AtYmx1ci1tZCBoLWZ1bGxcIlxyXG5cdFx0XHQgb246Y2xpY2s9eygpID0+IHtpc01heGltaXplZCA9ICFpc01heGltaXplZDsgJGhhc01heGltaXplZENhcmQgPSBmYWxzZTsgfX1cclxuXHRcdFx0IG9uOnNjcm9sbD17ZSA9PiBlLnN0b3BQcm9wYWdhdGlvbigpfVxyXG5cdFx0XHQgc3R5bGU9XCJ0b3A6IHt3aW5kb3cuc2Nyb2xsWX1weFwiPlxyXG5cdFx0PGRpdiBjbGFzcz1cImNhcmQtbWF4LWNvbnRlbnQgZ3JpZCBncmlkLWNvbHMtMiBzZWxmLWNlbnRlclxyXG5cdFx0XHRcdFx0XHRcdFx0cGxhY2Utc2VsZi1jZW50ZXIgYm9sZCB0ZXh0LTV4bCBcclxuXHRcdFx0XHRcdFx0XHRcdHJvdW5kZWQtM3hsIHNoYWRvdy1sZ1xyXG5cdFx0XHRcdFx0XHRcdFx0cC0xMCB3LTEvMiBoLTEvMlwiIFxyXG5cdFx0XHRpbjpyZWNlaXZlPVwie3trZXk6IEJHfX1cIlxyXG5cdFx0XHRvdXQ6c2VuZD1cInt7a2V5OiBCR319XCJcclxuXHRcdFx0b246Y2xpY2s9e2UgPT4gZS5zdG9wUHJvcGFnYXRpb24oKX0+XHJcblx0XHRcdDxkaXYgY2xhc3M9XCJwcm9qLWltZy1tYXggcGxhY2Utc2VsZi1jZW50ZXIgcm91bmRlZC1mdWxsIGJnLXdoaXRlXCJcclxuXHRcdFx0XHRcdCBpbjpyZWNlaXZlPXt7a2V5OiBJTUd9fVxyXG5cdFx0XHRcdFx0IG91dDpzZW5kPXt7a2V5OiBJTUd9fT5cclxuXHRcdFx0XHRcdFxyXG5cdFx0XHQ8L2Rpdj5cclxuXHRcdFx0PGRpdiBjbGFzcz1cIm14LTVcIj5cclxuXHRcdFx0XHQ8aDEgY2xhc3M9XCJib2xkIHRleHQtNnhsXCJcclxuXHRcdFx0XHRcdGluOnJlY2VpdmU9e3trZXk6IFRJVExFfX1cclxuXHRcdFx0XHRcdG91dDpzZW5kPXt7a2V5OiBUSVRMRX19PlxyXG5cdFx0XHRcdFx0e3RpdGxlfVxyXG5cdFx0XHRcdDwvaDE+XHJcblx0XHRcdFx0PGRpdiBjbGFzcz1cImZsZXgtZ3JvdyB0ZXh0LXhsIHB5LTJcIlxyXG5cdFx0XHRcdFx0aW46cmVjZWl2ZT17e2tleTogREVTQ319XHJcblx0XHRcdFx0XHRvdXQ6c2VuZD17e2tleTogREVTQ319PlxyXG5cdFx0XHRcdFx0PHA+XHJcblx0XHRcdFx0XHRcdHtkZXNjfVxyXG5cdFx0XHRcdFx0PC9wPlxyXG5cdFx0XHRcdDwvZGl2PlxyXG5cdFx0XHQ8L2Rpdj5cclxuXHRcdDwvZGl2PlxyXG5cdDwvZGl2PlxyXG57L2lmfVxyXG5cclxuPHN0eWxlPlxyXG5cdEBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDcyMHB4KVxyXG5cdHtcclxuXHRcdC5jYXJkLW1pbiB7XHJcblx0XHRcdFxyXG5cdFx0XHR3aWR0aDogMzAwcHg7XHJcblx0XHRcdGhlaWdodDogNDIwcHg7XHJcblx0XHR9XHJcblxyXG5cdFx0LmNhcmQtbWluLWNvbnRlbnQge1xyXG5cdFx0XHR3aWR0aDogMzAwcHg7XHJcblx0XHRcdGhlaWdodDogNDIwcHg7XHJcblx0XHRcdGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCh0byB0b3AsIHJnYigxMTYsIDY3LCAxOTYpLCByZ2IoMTcxLCAxMzAsIDIzOCkgODAlKTtcclxuXHRcdH1cclxuXHR9XHJcblxyXG5cdC5jYXJkLW1pbiB7XHJcblx0XHR3aWR0aDogMjUwcHg7XHJcblx0XHRoZWlnaHQ6IDMyMHB4O1xyXG5cdH1cclxuXHJcblx0LmNhcmQtbWluLWNvbnRlbnQge1xyXG5cdFx0d2lkdGg6IDMwMHB4O1xyXG5cdFx0aGVpZ2h0OiAzMjBweDtcclxuXHRcdGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCh0byB0b3AsIHJnYigxMTYsIDY3LCAxOTYpLCByZ2IoMTcxLCAxMzAsIDIzOCkgODAlKTtcclxuXHR9XHJcblxyXG5cdC8qIC5jYXJkLW1heCB7XHJcblx0fSAqL1xyXG5cclxuXHQuY2FyZC1tYXgtY29udGVudCB7XHJcblx0XHRiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQodG8gdG9wLCByZ2IoMTE2LCA2NywgMTk2KSwgcmdiKDE3MSwgMTMwLCAyMzgpIDgwJSk7XHJcblx0fVxyXG5cclxuXHQucHJvai1pbWctbWluIHtcclxuXHRcdGhlaWdodDogNjAlO1xyXG5cdH1cclxuXHJcblx0LnByb2otaW1nLW1heCB7XHJcblx0XHR3aWR0aDogMjUwcHg7XHJcblx0XHRoZWlnaHQ6IDI1MHB4O1xyXG5cdH1cclxuPC9zdHlsZT4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBcUdDLE9BQU8sTUFBTSxDQUFDLEdBQUcsQ0FBQyxZQUFZLEtBQUssQ0FBQyxBQUNwQyxDQUFDLEFBQ0EsU0FBUyxlQUFDLENBQUMsQUFFVixLQUFLLENBQUUsS0FBSyxDQUNaLE1BQU0sQ0FBRSxLQUFLLEFBQ2QsQ0FBQyxBQUVELGlCQUFpQixlQUFDLENBQUMsQUFDbEIsS0FBSyxDQUFFLEtBQUssQ0FDWixNQUFNLENBQUUsS0FBSyxDQUNiLGdCQUFnQixDQUFFLGdCQUFnQixFQUFFLENBQUMsR0FBRyxDQUFDLENBQUMsSUFBSSxHQUFHLENBQUMsQ0FBQyxFQUFFLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxDQUFDLElBQUksR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLEFBQ3JGLENBQUMsQUFDRixDQUFDLEFBRUQsU0FBUyxlQUFDLENBQUMsQUFDVixLQUFLLENBQUUsS0FBSyxDQUNaLE1BQU0sQ0FBRSxLQUFLLEFBQ2QsQ0FBQyxBQUVELGlCQUFpQixlQUFDLENBQUMsQUFDbEIsS0FBSyxDQUFFLEtBQUssQ0FDWixNQUFNLENBQUUsS0FBSyxDQUNiLGdCQUFnQixDQUFFLGdCQUFnQixFQUFFLENBQUMsR0FBRyxDQUFDLENBQUMsSUFBSSxHQUFHLENBQUMsQ0FBQyxFQUFFLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxDQUFDLElBQUksR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLEFBQ3JGLENBQUMsQUFLRCxpQkFBaUIsZUFBQyxDQUFDLEFBQ2xCLGdCQUFnQixDQUFFLGdCQUFnQixFQUFFLENBQUMsR0FBRyxDQUFDLENBQUMsSUFBSSxHQUFHLENBQUMsQ0FBQyxFQUFFLENBQUMsQ0FBQyxHQUFHLENBQUMsQ0FBQyxDQUFDLElBQUksR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsR0FBRyxDQUFDLEFBQ3JGLENBQUMsQUFFRCxhQUFhLGVBQUMsQ0FBQyxBQUNkLE1BQU0sQ0FBRSxHQUFHLEFBQ1osQ0FBQyxBQUVELGFBQWEsZUFBQyxDQUFDLEFBQ2QsS0FBSyxDQUFFLEtBQUssQ0FDWixNQUFNLENBQUUsS0FBSyxBQUNkLENBQUMifQ== */";
 	Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["append_dev"])(document.head, style);
 }
 
@@ -22244,21 +22184,21 @@ function create_if_block_1(ctx) {
 			p = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("p");
 			t4 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["text"])(/*desc*/ ctx[1]);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "proj-img-min m-5 bg-white rounded-3xl svelte-1tvlrii");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 39, 4, 1192);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 39, 4, 1239);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h1, "class", "bold text-5xl");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 44, 5, 1395);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 44, 5, 1447);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i, "class", "fab fa-github place-self-center justify-self-center text-5xl px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i, file, 49, 5, 1518);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i, file, 49, 5, 1575);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "flex-grow grid grid-cols-2 place-content-end px-5 w-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 43, 4, 1319);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 43, 4, 1370);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(p, "class", "overflow-hidden h-0 md:h-auto");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(p, file, 54, 5, 1724);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(p, file, 54, 5, 1786);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div2, "class", "flex-grow text-xl px-5 py-2");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 51, 4, 1615);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 51, 4, 1674);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div3, "class", "flex flex-col w-full h-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 38, 3, 1146);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 38, 3, 1192);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", "card-min-content text-white rounded-3xl shadow-2xl svelte-1tvlrii");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 34, 2, 944);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 34, 2, 986);
 		},
 		m: function mount(target, anchor) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["insert_dev"])(target, div4, anchor);
@@ -22277,7 +22217,7 @@ function create_if_block_1(ctx) {
 			current = true;
 
 			if (!mounted) {
-				dispose = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["listen_dev"])(div4, "click", /*click_handler*/ ctx[11], false, false, false);
+				dispose = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["listen_dev"])(div4, "click", /*click_handler*/ ctx[7], false, false, false);
 				mounted = true;
 			}
 		},
@@ -22291,25 +22231,25 @@ function create_if_block_1(ctx) {
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (div0_outro) div0_outro.end(1);
-				if (!div0_intro) div0_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div0, /*receive*/ ctx[5], { key: /*IMG*/ ctx[9] });
+				if (!div0_intro) div0_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div0, /*receive*/ ctx[5], { key: IMG });
 				div0_intro.start();
 			});
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (h1_outro) h1_outro.end(1);
-				if (!h1_intro) h1_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(h1, /*receive*/ ctx[5], { key: /*TITLE*/ ctx[7] });
+				if (!h1_intro) h1_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(h1, /*receive*/ ctx[5], { key: TITLE });
 				h1_intro.start();
 			});
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (div2_outro) div2_outro.end(1);
-				if (!div2_intro) div2_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div2, /*receive*/ ctx[5], { key: /*DESC*/ ctx[8] });
+				if (!div2_intro) div2_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div2, /*receive*/ ctx[5], { key: DESC });
 				div2_intro.start();
 			});
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (div4_outro) div4_outro.end(1);
-				if (!div4_intro) div4_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div4, /*receive*/ ctx[5], { key: /*BG*/ ctx[6] });
+				if (!div4_intro) div4_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div4, /*receive*/ ctx[5], { key: BG });
 				div4_intro.start();
 			});
 
@@ -22317,13 +22257,13 @@ function create_if_block_1(ctx) {
 		},
 		o: function outro(local) {
 			if (div0_intro) div0_intro.invalidate();
-			div0_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div0, /*send*/ ctx[4], { key: /*IMG*/ ctx[9] });
+			div0_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div0, /*send*/ ctx[4], { key: IMG });
 			if (h1_intro) h1_intro.invalidate();
-			h1_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(h1, /*send*/ ctx[4], { key: /*TITLE*/ ctx[7] });
+			h1_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(h1, /*send*/ ctx[4], { key: TITLE });
 			if (div2_intro) div2_intro.invalidate();
-			div2_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div2, /*send*/ ctx[4], { key: /*DESC*/ ctx[8] });
+			div2_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div2, /*send*/ ctx[4], { key: DESC });
 			if (div4_intro) div4_intro.invalidate();
-			div4_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div4, /*send*/ ctx[4], { key: /*BG*/ ctx[6] });
+			div4_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div4, /*send*/ ctx[4], { key: BG });
 			current = false;
 		},
 		d: function destroy(detaching) {
@@ -22388,23 +22328,23 @@ function create_if_block(ctx) {
 			p = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("p");
 			t3 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["text"])(/*desc*/ ctx[1]);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "proj-img-max place-self-center rounded-full bg-white svelte-1tvlrii");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 77, 3, 2436);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 77, 3, 2521);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h1, "class", "bold text-6xl");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 83, 4, 2603);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(p, file, 91, 5, 2817);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 83, 4, 2694);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(p, file, 91, 5, 2916);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "flex-grow text-xl py-2");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 88, 4, 2717);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 88, 4, 2813);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div2, "class", "mx-5");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 82, 3, 2580);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div3, "class", "card-max-content grid grid-cols-2 self-center\n\t\t\t\t\t\t\t\tplace-self-center bold text-5xl \n\t\t\t\t\t\t\t\trounded-3xl shadow-lg\n\t\t\t\t\t\t\t\tp-10 w-1/2 h-1/2 svelte-1tvlrii");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 70, 2, 2183);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 82, 3, 2670);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div3, "class", "card-max-content grid grid-cols-2 self-center\r\n\t\t\t\t\t\t\t\tplace-self-center bold text-5xl \r\n\t\t\t\t\t\t\t\trounded-3xl shadow-lg\r\n\t\t\t\t\t\t\t\tp-10 w-1/2 h-1/2 svelte-1tvlrii");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 70, 2, 2261);
 
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", div4_class_value = "card-max grid absolute \n\t\t\t\t\t\t\toverscroll-contain left-0 text-white \n\t\t\t\t\t\t\t" + (!/*isMaximized*/ ctx[2]
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", div4_class_value = "card-max grid absolute \r\n\t\t\t\t\t\t\toverscroll-contain left-0 text-white \r\n\t\t\t\t\t\t\t" + (!/*isMaximized*/ ctx[2]
 			? " hidden "
-			: " backdrop-filter ") + "\n\t\t\t\t\t\t\tbackdrop-blur-md h-full");
+			: " backdrop-filter ") + "\r\n\t\t\t\t\t\t\tbackdrop-blur-md h-full");
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["set_style"])(div4, "top", window.scrollY + "px");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 63, 1, 1852);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 63, 1, 1923);
 		},
 		m: function mount(target, anchor) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["insert_dev"])(target, div4, anchor);
@@ -22423,7 +22363,7 @@ function create_if_block(ctx) {
 			if (!mounted) {
 				dispose = [
 					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["listen_dev"])(div3, "click", click_handler_1, false, false, false),
-					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["listen_dev"])(div4, "click", /*click_handler_2*/ ctx[12], false, false, false),
+					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["listen_dev"])(div4, "click", /*click_handler_2*/ ctx[8], false, false, false),
 					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["listen_dev"])(div4, "scroll", scroll_handler, false, false, false)
 				];
 
@@ -22435,9 +22375,9 @@ function create_if_block(ctx) {
 			if (!current || dirty & /*title*/ 1) Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["set_data_dev"])(t1, /*title*/ ctx[0]);
 			if (!current || dirty & /*desc*/ 2) Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["set_data_dev"])(t3, /*desc*/ ctx[1]);
 
-			if (!current || dirty & /*isMaximized*/ 4 && div4_class_value !== (div4_class_value = "card-max grid absolute \n\t\t\t\t\t\t\toverscroll-contain left-0 text-white \n\t\t\t\t\t\t\t" + (!/*isMaximized*/ ctx[2]
+			if (!current || dirty & /*isMaximized*/ 4 && div4_class_value !== (div4_class_value = "card-max grid absolute \r\n\t\t\t\t\t\t\toverscroll-contain left-0 text-white \r\n\t\t\t\t\t\t\t" + (!/*isMaximized*/ ctx[2]
 			? " hidden "
-			: " backdrop-filter ") + "\n\t\t\t\t\t\t\tbackdrop-blur-md h-full")) {
+			: " backdrop-filter ") + "\r\n\t\t\t\t\t\t\tbackdrop-blur-md h-full")) {
 				Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", div4_class_value);
 			}
 		},
@@ -22446,25 +22386,25 @@ function create_if_block(ctx) {
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (div0_outro) div0_outro.end(1);
-				if (!div0_intro) div0_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div0, /*receive*/ ctx[5], { key: /*IMG*/ ctx[9] });
+				if (!div0_intro) div0_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div0, /*receive*/ ctx[5], { key: IMG });
 				div0_intro.start();
 			});
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (h1_outro) h1_outro.end(1);
-				if (!h1_intro) h1_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(h1, /*receive*/ ctx[5], { key: /*TITLE*/ ctx[7] });
+				if (!h1_intro) h1_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(h1, /*receive*/ ctx[5], { key: TITLE });
 				h1_intro.start();
 			});
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (div1_outro) div1_outro.end(1);
-				if (!div1_intro) div1_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div1, /*receive*/ ctx[5], { key: /*DESC*/ ctx[8] });
+				if (!div1_intro) div1_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div1, /*receive*/ ctx[5], { key: DESC });
 				div1_intro.start();
 			});
 
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_render_callback"])(() => {
 				if (div3_outro) div3_outro.end(1);
-				if (!div3_intro) div3_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div3, /*receive*/ ctx[5], { key: /*BG*/ ctx[6] });
+				if (!div3_intro) div3_intro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_in_transition"])(div3, /*receive*/ ctx[5], { key: BG });
 				div3_intro.start();
 			});
 
@@ -22472,13 +22412,13 @@ function create_if_block(ctx) {
 		},
 		o: function outro(local) {
 			if (div0_intro) div0_intro.invalidate();
-			div0_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div0, /*send*/ ctx[4], { key: /*IMG*/ ctx[9] });
+			div0_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div0, /*send*/ ctx[4], { key: IMG });
 			if (h1_intro) h1_intro.invalidate();
-			h1_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(h1, /*send*/ ctx[4], { key: /*TITLE*/ ctx[7] });
+			h1_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(h1, /*send*/ ctx[4], { key: TITLE });
 			if (div1_intro) div1_intro.invalidate();
-			div1_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div1, /*send*/ ctx[4], { key: /*DESC*/ ctx[8] });
+			div1_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div1, /*send*/ ctx[4], { key: DESC });
 			if (div3_intro) div3_intro.invalidate();
-			div3_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div3, /*send*/ ctx[4], { key: /*BG*/ ctx[6] });
+			div3_outro = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_out_transition"])(div3, /*send*/ ctx[4], { key: BG });
 			current = false;
 		},
 		d: function destroy(detaching) {
@@ -22519,7 +22459,7 @@ function create_fragment(ctx) {
 			if (if_block1) if_block1.c();
 			if_block1_anchor = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["empty"])();
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div, "class", "card-min flex flex-wrap justify-center place-items-center gap-4 m-5 w-full h-full svelte-1tvlrii");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 32, 0, 825);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 32, 0, 865);
 		},
 		l: function claim(nodes) {
 			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -22611,6 +22551,10 @@ function create_fragment(ctx) {
 }
 
 const hasMaximizedCard = Object(svelte_store__WEBPACK_IMPORTED_MODULE_1__["writable"])(false);
+const BG = 0;
+const TITLE = 1;
+const DESC = 2;
+const IMG = 3;
 const click_handler_1 = e => e.stopPropagation();
 const scroll_handler = e => e.stopPropagation();
 
@@ -22643,10 +22587,6 @@ function instance($$self, $$props, $$invalidate) {
 		}
 	});
 
-	let BG = 0;
-	let TITLE = 1;
-	let DESC = 2;
-	let IMG = 3;
 	let isMaximized = false;
 	let { title = "Title" } = $$props;
 	let { desc = "desc" } = $$props;
@@ -22667,7 +22607,7 @@ function instance($$self, $$props, $$invalidate) {
 	};
 
 	$$self.$$set = $$props => {
-		if ("id" in $$props) $$invalidate(10, id = $$props.id);
+		if ("id" in $$props) $$invalidate(6, id = $$props.id);
 		if ("title" in $$props) $$invalidate(0, title = $$props.title);
 		if ("desc" in $$props) $$invalidate(1, desc = $$props.desc);
 	};
@@ -22691,11 +22631,7 @@ function instance($$self, $$props, $$invalidate) {
 	});
 
 	$$self.$inject_state = $$props => {
-		if ("id" in $$props) $$invalidate(10, id = $$props.id);
-		if ("BG" in $$props) $$invalidate(6, BG = $$props.BG);
-		if ("TITLE" in $$props) $$invalidate(7, TITLE = $$props.TITLE);
-		if ("DESC" in $$props) $$invalidate(8, DESC = $$props.DESC);
-		if ("IMG" in $$props) $$invalidate(9, IMG = $$props.IMG);
+		if ("id" in $$props) $$invalidate(6, id = $$props.id);
 		if ("isMaximized" in $$props) $$invalidate(2, isMaximized = $$props.isMaximized);
 		if ("title" in $$props) $$invalidate(0, title = $$props.title);
 		if ("desc" in $$props) $$invalidate(1, desc = $$props.desc);
@@ -22712,10 +22648,6 @@ function instance($$self, $$props, $$invalidate) {
 		$hasMaximizedCard,
 		send,
 		receive,
-		BG,
-		TITLE,
-		DESC,
-		IMG,
 		id,
 		click_handler,
 		click_handler_2
@@ -22726,7 +22658,7 @@ class Card extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponent
 	constructor(options) {
 		super(options);
 		if (!document.getElementById("svelte-1tvlrii-style")) add_css();
-		Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["init"])(this, options, instance, create_fragment, svelte_internal__WEBPACK_IMPORTED_MODULE_0__["safe_not_equal"], { id: 10, title: 0, desc: 1 });
+		Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["init"])(this, options, instance, create_fragment, svelte_internal__WEBPACK_IMPORTED_MODULE_0__["safe_not_equal"], { id: 6, title: 0, desc: 1 });
 
 		Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["dispatch_dev"])("SvelteRegisterComponent", {
 			component: this,
@@ -22760,7 +22692,7 @@ class Card extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponent
 		throw new Error("<Card>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
 	}
 }
-if (module && module.hot) { Card = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__["applyHmr"]({ m: module, id: "\"src/components/Stuff/Card.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Card, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__["default"], compileData: {"vars":[{"name":"writable","export_name":null,"injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"hasMaximizedCard","export_name":"hasMaximizedCard","injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"cubicOut","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"crossfade","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"id","export_name":"id","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":true,"referenced_from_script":true},{"name":"send","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"receive","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"BG","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"TITLE","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"DESC","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"IMG","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"isMaximized","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"title","export_name":"title","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"desc","export_name":"desc","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"$hasMaximizedCard","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/components/Stuff/Card.svelte","format":"esm","dev":true}, cssId: "svelte-1tvlrii-style", nonCssHash: "18h74n0", }); }
+if (module && module.hot) { Card = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__["applyHmr"]({ m: module, id: "\"src\\\\components\\\\Stuff\\\\Card.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Card, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__["default"], compileData: {"vars":[{"name":"writable","export_name":null,"injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"hasMaximizedCard","export_name":"hasMaximizedCard","injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"cubicOut","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"crossfade","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"id","export_name":"id","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":true,"referenced_from_script":true},{"name":"send","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"receive","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"BG","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"TITLE","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"DESC","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"IMG","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"isMaximized","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"title","export_name":"title","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"desc","export_name":"desc","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"$hasMaximizedCard","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\components\\Stuff\\Card.svelte","format":"esm","dev":true}, cssId: "svelte-1tvlrii-style", nonCssHash: "z8jkis", }); }
 /* harmony default export */ __webpack_exports__["default"] = (Card);
 
 if (typeof add_css !== 'undefined' && !document.getElementById("svelte-1tvlrii-style")) add_css();
@@ -22864,13 +22796,13 @@ const app = new _App_svelte__WEBPACK_IMPORTED_MODULE_0__["default"]({
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var svelte_internal__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! svelte/internal */ "./node_modules/svelte/internal/index.mjs");
 /* harmony import */ var _Router_svelte__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Router.svelte */ "./src/pager/Router.svelte");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/pager/NotFound.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\pager\NotFound.svelte generated by Svelte v3.35.0 */
 
 
 
-const file = "src/pager/NotFound.svelte";
+const file = "src\\pager\\NotFound.svelte";
 
 // (11:0) {#if $activeRoute.path === path}
 function create_if_block(ctx) {
@@ -22935,7 +22867,7 @@ function create_if_block(ctx) {
 			}
 
 			if (default_slot) {
-				if (default_slot.p && (!current || dirty & /*$$scope*/ 8)) {
+				if (default_slot.p && dirty & /*$$scope*/ 8) {
 					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["update_slot"])(default_slot, default_slot_template, ctx, /*$$scope*/ ctx[3], dirty, null, null);
 				}
 			}
@@ -23107,7 +23039,7 @@ class NotFound extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteCompo
 		throw new Error("<NotFound>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
 	}
 }
-if (module && module.hot) { NotFound = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__["applyHmr"]({ m: module, id: "\"src/pager/NotFound.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: NotFound, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__["default"], compileData: {"vars":[{"name":"register","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"activeRoute","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"path","export_name":"path","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"component","export_name":"component","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"$activeRoute","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/pager/NotFound.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
+if (module && module.hot) { NotFound = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__["applyHmr"]({ m: module, id: "\"src\\\\pager\\\\NotFound.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: NotFound, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__["default"], compileData: {"vars":[{"name":"register","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"activeRoute","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"path","export_name":"path","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"component","export_name":"component","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"$activeRoute","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\pager\\NotFound.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
 /* harmony default export */ __webpack_exports__["default"] = (NotFound);
 
 
@@ -23126,13 +23058,13 @@ if (module && module.hot) { NotFound = _home_weidelix_Desktop_personal_website_n
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var svelte_internal__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! svelte/internal */ "./node_modules/svelte/internal/index.mjs");
 /* harmony import */ var _Router_svelte__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Router.svelte */ "./src/pager/Router.svelte");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/pager/Route.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\pager\Route.svelte generated by Svelte v3.35.0 */
 
 
 
-const file = "src/pager/Route.svelte";
+const file = "src\\pager\\Route.svelte";
 const get_default_slot_changes = dirty => ({ params: dirty & /*params*/ 8 });
 const get_default_slot_context = ctx => ({ params: /*params*/ ctx[3] });
 
@@ -23235,7 +23167,7 @@ function create_else_block(ctx) {
 		},
 		p: function update(ctx, dirty) {
 			if (default_slot) {
-				if (default_slot.p && (!current || dirty & /*$$scope, params*/ 72)) {
+				if (default_slot.p && dirty & /*$$scope, params*/ 72) {
 					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["update_slot"])(default_slot, default_slot_template, ctx, /*$$scope*/ ctx[6], dirty, get_default_slot_changes, get_default_slot_context);
 				}
 			}
@@ -23521,7 +23453,7 @@ class Route extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponen
 		throw new Error("<Route>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
 	}
 }
-if (module && module.hot) { Route = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__["applyHmr"]({ m: module, id: "\"src/pager/Route.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Route, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__["default"], compileData: {"vars":[{"name":"register","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"activeRoute","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"middleware","export_name":"middleware","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":true,"referenced_from_script":true},{"name":"path","export_name":"path","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"component","export_name":"component","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"params","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"$activeRoute","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"$restProps","export_name":null,"injected":true,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/pager/Route.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
+if (module && module.hot) { Route = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_2__["applyHmr"]({ m: module, id: "\"src\\\\pager\\\\Route.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Route, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_3__["default"], compileData: {"vars":[{"name":"register","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"activeRoute","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"middleware","export_name":"middleware","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":true,"referenced_from_script":true},{"name":"path","export_name":"path","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"component","export_name":"component","injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"params","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":true,"referenced":true,"writable":true,"referenced_from_script":true},{"name":"$activeRoute","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"$restProps","export_name":null,"injected":true,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\pager\\Route.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
 /* harmony default export */ __webpack_exports__["default"] = (Route);
 
 
@@ -23545,16 +23477,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var svelte__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! svelte */ "./node_modules/svelte/index.mjs");
 /* harmony import */ var page__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! page */ "./node_modules/page/page.js");
 /* harmony import */ var page__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(page__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/pager/Router.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\pager\Router.svelte generated by Svelte v3.35.0 */
 
 
 const { Object: Object_1 } = svelte_internal__WEBPACK_IMPORTED_MODULE_0__["globals"];
 
 
 
-const file = "src/pager/Router.svelte";
+const file = "src\\pager\\Router.svelte";
 
 function create_fragment(ctx) {
 	let current;
@@ -23577,7 +23509,7 @@ function create_fragment(ctx) {
 		},
 		p: function update(ctx, [dirty]) {
 			if (default_slot) {
-				if (default_slot.p && (!current || dirty & /*$$scope*/ 1)) {
+				if (default_slot.p && dirty & /*$$scope*/ 1) {
 					Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["update_slot"])(default_slot, default_slot_template, ctx, /*$$scope*/ ctx[0], dirty, null, null);
 				}
 			}
@@ -23681,7 +23613,7 @@ class Router extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteCompone
 		});
 	}
 }
-if (module && module.hot) { Router = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__["applyHmr"]({ m: module, id: "\"src/pager/Router.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Router, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__["default"], compileData: {"vars":[{"name":"writable","export_name":null,"injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"activeRoute","export_name":"activeRoute","injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"routes","export_name":null,"injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"register","export_name":"register","injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"onMount","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"onDestroy","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"page","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"last","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"setupPage","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"$activeRoute","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":false,"referenced":false,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/pager/Router.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
+if (module && module.hot) { Router = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_4__["applyHmr"]({ m: module, id: "\"src\\\\pager\\\\Router.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Router, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_5__["default"], compileData: {"vars":[{"name":"writable","export_name":null,"injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"activeRoute","export_name":"activeRoute","injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":true},{"name":"routes","export_name":null,"injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"register","export_name":"register","injected":false,"module":true,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"onMount","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"onDestroy","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"page","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"last","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"setupPage","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"$activeRoute","export_name":null,"injected":true,"module":false,"mutated":true,"reassigned":false,"referenced":false,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\pager\\Router.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
 /* harmony default export */ __webpack_exports__["default"] = (Router);
 
 
@@ -23700,12 +23632,12 @@ if (module && module.hot) { Router = _home_weidelix_Desktop_personal_website_nod
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var svelte_internal__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! svelte/internal */ "./node_modules/svelte/internal/index.mjs");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/pages/About.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\pages\About.svelte generated by Svelte v3.35.0 */
 
 
-const file = "src/pages/About.svelte";
+const file = "src\\pages\\About.svelte";
 
 function create_fragment(ctx) {
 	let div;
@@ -23722,11 +23654,11 @@ function create_fragment(ctx) {
 			p = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("p");
 			p.textContent = "This is about page";
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h1, "class", "title font-black");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 3, 1, 53);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 3, 1, 56);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(p, "class", "text-xl font-base text-gray-500 py-2");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(p, file, 4, 1, 97);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(p, file, 4, 1, 101);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div, "class", "page p-6");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 2, 0, 29);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 2, 0, 31);
 		},
 		l: function claim(nodes) {
 			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -23781,7 +23713,7 @@ class About extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponen
 		});
 	}
 }
-if (module && module.hot) { About = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__["applyHmr"]({ m: module, id: "\"src/pages/About.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: About, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__["default"], compileData: {"vars":[],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/pages/About.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
+if (module && module.hot) { About = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_1__["applyHmr"]({ m: module, id: "\"src\\\\pages\\\\About.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: About, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_2__["default"], compileData: {"vars":[],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\pages\\About.svelte","format":"esm","dev":true}, cssId: undefined, nonCssHash: undefined, }); }
 /* harmony default export */ __webpack_exports__["default"] = (About);
 
 
@@ -23803,21 +23735,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var svelte_transition__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! svelte/transition */ "./node_modules/svelte/transition/index.mjs");
 /* harmony import */ var svelte_easing__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! svelte/easing */ "./node_modules/svelte/easing/index.mjs");
 /* harmony import */ var svelte__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! svelte */ "./node_modules/svelte/index.mjs");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/pages/Home.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\pages\Home.svelte generated by Svelte v3.35.0 */
 
 
 
 
 
 
-const file = "src/pages/Home.svelte";
+const file = "src\\pages\\Home.svelte";
 
 function add_css() {
 	var style = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("style");
 	style.id = "svelte-1w8e52v-style";
-	style.textContent = "@media screen and (min-width: 720px){.home.svelte-1w8e52v{width:720px;background-color:white;overflow:hidden}}.title.svelte-1w8e52v{font-size:3rem;line-height:3rem;color:#525252}.sub-title.svelte-1w8e52v{font-size:1.2rem;font-weight:100;color:#525252}.side-one.svelte-1w8e52v{background-image:linear-gradient(130deg, #f0c433, #eb7b3f)}.side-two.svelte-1w8e52v{background-color:white;padding-top:100px}@media(min-width: 768px){.side-two.svelte-1w8e52v{padding-top:1.75rem}}.desc.svelte-1w8e52v{width:80%;color:#525252}.image.svelte-1w8e52v{border-width:5px;border-color:white;background-image:linear-gradient(130deg, #eb7b3f, #f0c433);width:200px;height:200px}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiSG9tZS5zdmVsdGUiLCJzb3VyY2VzIjpbIkhvbWUuc3ZlbHRlIl0sInNvdXJjZXNDb250ZW50IjpbIjxzY3JpcHQgbGFuZz1cInRzXCI+aW1wb3J0IEJ1dHRvbiBmcm9tICdAY29tcG9uZW50cy9CdXR0b24uc3ZlbHRlJztcbmltcG9ydCB7IHNjYWxlIH0gZnJvbSAnc3ZlbHRlL3RyYW5zaXRpb24nO1xuaW1wb3J0IHsgY3ViaWNPdXQsIGN1YmljSW4gfSBmcm9tICdzdmVsdGUvZWFzaW5nJztcbmltcG9ydCB7IG9uRGVzdHJveSwgb25Nb3VudCB9IGZyb20gJ3N2ZWx0ZSc7XG5sZXQgYnV0dG9ucyA9IFtcbiAgICB7XG4gICAgICAgIGlkOiAxLFxuICAgICAgICBwYXRoOiAnL3N0dWZmJyxcbiAgICAgICAgbGFiZWw6ICdTdHVmZiBJIG1hZGUnLFxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYigxNzEsIDEzMCwgMjM4KSwgcmdiKDExNiwgNjcsIDE5NikpJ1xuICAgIH0sXG4gICAge1xuICAgICAgICBpZDogMixcbiAgICAgICAgcGF0aDogJy9hYm91dCcsXG4gICAgICAgIGxhYmVsOiAnQWJvdXQgbWUnLFxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYigyMzYsIDExMywgMTEzKSwgcmdiKDE5MiwgMjIsIDIyKSknXG4gICAgfSxcbiAgICB7XG4gICAgICAgIGlkOiAzLFxuICAgICAgICBwYXRoOiAnLycsXG4gICAgICAgIGxhYmVsOiAnU291cmNlIGNvZGUnLFxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYig2MSwgMjMwLCAxNTEpLCByZ2IoMjUsIDE5NCwgODEpKSdcbiAgICB9XG5dO1xub25EZXN0cm95KCgpID0+IHtcbiAgICAkJHByb3BzLnNldEluaXRpYWxMb2FkKCk7XG59KTtcbjwvc2NyaXB0PlxuXG57I2lmICEkJHByb3BzLmluaXRpYWxMb2FkfVxuXHQ8ZGl2IGNsYXNzPVwiZ3JpZCBwbGFjZS1pdGVtcy1jZW50ZXIgcGFnZSBcblx0XHRcdFx0XHRcdFx0cC0wIG1kOnAtMTAgYW50aWFsaWFzZWQgaC1zY3JlZW5cIlxuXHRcdGluOnNjYWxlPXt7IHN0YXJ0OiAwLjcsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAzMDAsIGVhc2luZzogY3ViaWNPdXQgfX1cblx0XHRvdXQ6c2NhbGU9e3sgc3RhcnQ6IDAuNywgb3BhY2l0eTogMCwgZHVyYXRpb246IDMwMCwgZWFzaW5nOiBjdWJpY0lufX0+XG5cdFx0PGRpdiBjbGFzcz1cImhvbWUgZmxleCBmbGV4LWNvbCBtZDpmbGV4LXJvdyBcblx0XHRcdFx0XHRcdFx0XHRtZDpmbGV4LXdyYXAgbWQ6cm91bmRlZC0zeGwgc2hhZG93LTJ4bCBcblx0XHRcdFx0XHRcdFx0XHRwbGFjZS1jb250ZW50LWFyb3VuZCB3LWZ1bGwgaC1mdWxsXCI+XG5cdFx0XHQ8ZGl2IGNsYXNzPVwic2lkZS1vbmUgZmxleCBtZDpmbGV4LWNvbCBqdXN0aWZ5LWNlbnRlciBcblx0XHRcdFx0XHRcdFx0XHRcdG1kOnBsYWNlLWNvbnRlbnQtc3RhcnQgbWQ6aC1mdWxsIG1kOnctMS8yXCI+XG5cdFx0XHRcdDwhLS0gVGVtcG9yYXJ5IC0tPlxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiaW1hZ2UgbWQ6c2VsZi1jZW50ZXIgdHJhbnNmb3JtIHRyYW5zbGF0ZS15LTIvNCBcblx0XHRcdFx0XHRcdFx0XHRcdFx0bWQ6dHJhbnNsYXRlLXktMCByb3VuZGVkLWZ1bGwgc2hhZG93LWxnIG1kOm15LTE2XCI+PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHRcdDxkaXYgY2xhc3M9XCJzaWRlLXR3byBmbGV4IGZsZXgtY29sIHAtNyBoLWZ1bGwgbWQ6dy0xLzJcIj5cblx0XHRcdFx0PCEtLSBIb21lIHBhZ2UgdGl0bGUgLS0+XG5cdFx0XHRcdDxkaXY+XHRcblx0XHRcdFx0XHQ8aDMgY2xhc3M9XCJzdWItdGl0bGVcIj5IaSEgSSdtPC9oMz5cblx0XHRcdFx0XHQ8aDEgY2xhc3M9XCJ0aXRsZSBqdXN0aWZ5LXNlbGYtY2VudGVyIGZvbnQtYmxhY2tcIj5BbnRob255PC9oMT5cblx0XHRcdFx0PC9kaXY+XG5cblx0XHRcdFx0PCEtLSBEZXNjcmlwdGlvbiAtLT5cblx0XHRcdFx0PGRpdiBjbGFzcz1cImRlc2MgcHktNVwiPlxuXHRcdFx0XHRcdEFsbW9zdCBiZWZvcmUgd2Uga25ldyBpdCwgd2UgaGFkIGxlZnQgdGhlIGdyb3VuZFxuXHRcdFx0XHQ8L2Rpdj5cblxuXHRcdFx0XHQ8IS0tIExpbmtzIHRvIHBhZ2VzIC0tPlxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleCBmbGV4LXdyYXAgY29udGVudC1jZW50ZXIgZmxleC1ncm93XCI+XG5cdFx0XHRcdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC1jb2wgdy1mdWxsIGgtNTAgbWQ6dy00LzVcIj5cblx0XHRcdFx0XHRcdHsjZWFjaCBidXR0b25zIGFzIGJ1dHRvbiwgaSAoYnV0dG9uLmlkKX1cblx0XHRcdFx0XHRcdFx0PGRpdiBjbGFzcz1cIm1kOmp1c3RpZnktc2VsZi1zdGFydCBtLTJcIiBcblx0XHRcdFx0XHRcdFx0XHRcdGluOnNjYWxlPXt7IHN0YXJ0OiAwLjUsIG9wYWNpdHk6IDEsIGR1cmF0aW9uOiAzMDAgKiBidXR0b24uaWQsIGVhc2luZzogY3ViaWNPdXQgfX0gXG5cdFx0XHRcdFx0XHRcdFx0XHRvdXQ6c2NhbGU9e3sgc3RhcnQ6IDAuNSwgb3BhY2l0eTogMCwgZHVyYXRpb246IDEwMCAqIGJ1dHRvbi5pZCwgZWFzaW5nOiBjdWJpY0luIH19PlxuXHRcdFx0XHRcdFx0XHRcdDxCdXR0b24gbGluaz17YnV0dG9uLnBhdGh9IGNvbG9yPXtidXR0b24uY29sb3J9PntidXR0b24ubGFiZWx9PC9CdXR0b24+XG5cdFx0XHRcdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHRcdFx0ey9lYWNofVxuXHRcdFx0XHRcdDwvZGl2PlxuXHRcdFx0XHQ8L2Rpdj5cblxuXHRcdFx0XHQ8IS0tIEZvb3RlciAtLT5cblx0XHRcdFx0PGRpdiBjbGFzcz1cImZvb3RlciBmbGV4IGp1c3RpZnktY2VudGVyIGZsZXgtZ3JvdyB0ZXh0LTV4bFwiPlxuXHRcdFx0XHRcdDxpIGNsYXNzPVwiZmFiIGZhLWdpdGh1YiBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCJcblx0XHRcdFx0XHRcdGluOnNjYWxlPXt7IHN0YXJ0OiAwLCBvcGFjaXR5OiAwLCBkdXJhdGlvbjogNTAwLCBlYXNpbmc6IGN1YmljT3V0IH19PjwvaT5cblx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhYiBmYS1mYWNlYm9vayBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCJcblx0XHRcdFx0XHRcdGluOnNjYWxlPXt7IHN0YXJ0OiAwLCBvcGFjaXR5OiAwLCBkdXJhdGlvbjogMTAwMCwgZWFzaW5nOiBjdWJpY091dCB9fT48L2k+XG5cdFx0XHRcdFx0PGkgY2xhc3M9XCJmYWIgZmEtaW5zdGFncmFtIHBsYWNlLXNlbGYtY2VudGVyIHB4LTNcIlxuXHRcdFx0XHRcdFx0aW46c2NhbGU9e3sgc3RhcnQ6IDAsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAxNTAwLCBlYXNpbmc6IGN1YmljT3V0IH19PjwvaT5cblx0XHRcdFx0PC9kaXY+XG5cdFx0XHQ8L2Rpdj5cblx0XHQ8L2Rpdj5cblx0PC9kaXY+XG5cbns6ZWxzZX1cblx0PGRpdiBjbGFzcz1cImdyaWQgcGxhY2UtaXRlbXMtY2VudGVyIHBhZ2UgXG5cdFx0XHRcdHAtMCBtZDpwLTEwIGFudGlhbGlhc2VkIGgtc2NyZWVuXCJcblx0XHRcdFx0b3V0OnNjYWxlPXt7IHN0YXJ0OiAwLjcsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAzMDAsIGVhc2luZzogY3ViaWNJbn19PlxuXHRcdDxkaXYgY2xhc3M9XCJob21lIGZsZXggZmxleC1jb2wgbWQ6ZmxleC1yb3cgbWQ6ZmxleC13cmFwIFxuXHRcdFx0XHRcdG1kOnJvdW5kZWQtM3hsIHNoYWRvdy0yeGwgXG5cdFx0XHRcdFx0cGxhY2UtY29udGVudC1hcm91bmQgdy1mdWxsIGgtZnVsbFwiPlxuXHRcdFx0PGRpdiBjbGFzcz1cInNpZGUtb25lIGZsZXggbWQ6ZmxleC1jb2wganVzdGlmeS1jZW50ZXIgXG5cdFx0XHRcdFx0XHRtZDpwbGFjZS1jb250ZW50LXN0YXJ0IG1kOmgtZnVsbCBtZDp3LTEvMlwiPlxuXHRcdFx0XHQ8IS0tIFRlbXBvcmFyeSAtLT5cblx0XHRcdFx0PGRpdiBjbGFzcz1cImltYWdlIG1kOnNlbGYtY2VudGVyIHRyYW5zZm9ybSB0cmFuc2xhdGUteS0yLzQgXG5cdFx0XHRcdFx0XHRcdG1kOnRyYW5zbGF0ZS15LTAgcm91bmRlZC1mdWxsIHNoYWRvdy1sZyBtZDpteS0xNlwiPjwvZGl2PlxuXHRcdFx0PC9kaXY+XG5cdFx0XHQ8ZGl2IGNsYXNzPVwic2lkZS10d28gZmxleCBmbGV4LWNvbCBwLTcgaC1mdWxsIG1kOnctMS8yXCI+XG5cdFx0XHRcdDwhLS0gSG9tZSBwYWdlIHRpdGxlIC0tPlxuXHRcdFx0XHQ8ZGl2Plx0XG5cdFx0XHRcdFx0PGgzIGNsYXNzPVwic3ViLXRpdGxlXCI+SGkhIEknbTwvaDM+XG5cdFx0XHRcdFx0PGgxIGNsYXNzPVwidGl0bGUganVzdGlmeS1zZWxmLWNlbnRlciBmb250LWJsYWNrXCI+QW50aG9ueTwvaDE+XG5cdFx0XHRcdDwvZGl2PlxuXG5cdFx0XHRcdDwhLS0gRGVzY3JpcHRpb24gLS0+XG5cdFx0XHRcdDxkaXYgY2xhc3M9XCJkZXNjIHB5LTVcIj5cblx0XHRcdFx0XHRBbG1vc3QgYmVmb3JlIHdlIGtuZXcgaXQsIHdlIGhhZCBsZWZ0IHRoZSBncm91bmRcblx0XHRcdFx0PC9kaXY+XG5cblx0XHRcdFx0PCEtLSBMaW5rcyB0byBwYWdlcyAtLT5cblx0XHRcdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC13cmFwIGNvbnRlbnQtY2VudGVyIGZsZXgtZ3Jvd1wiPlxuXHRcdFx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4IGZsZXgtY29sIHctZnVsbCBoLTUwIG1kOnctNC81XCI+XG5cdFx0XHRcdFx0XHR7I2VhY2ggYnV0dG9ucyBhcyBidXR0b24sIGkgKGJ1dHRvbi5pZCl9XG5cdFx0XHRcdFx0XHRcdDxkaXYgY2xhc3M9XCJtZDpqdXN0aWZ5LXNlbGYtc3RhcnQgbS0yIGgtZnVsbFwiIFxuXHRcdFx0XHRcdFx0XHRcdFx0IG91dDpzY2FsZT17eyBzdGFydDogMC41LCBvcGFjaXR5OiAwLCBkdXJhdGlvbjogMTAwICogYnV0dG9uLmlkLCBlYXNpbmc6IGN1YmljSW4gfX0+XG5cdFx0XHRcdFx0XHRcdFx0PEJ1dHRvbiBsaW5rPXtidXR0b24ucGF0aH0gY29sb3I9e2J1dHRvbi5jb2xvcn0+e2J1dHRvbi5sYWJlbH08L0J1dHRvbj5cblx0XHRcdFx0XHRcdFx0PC9kaXY+XG5cdFx0XHRcdFx0XHR7L2VhY2h9XG5cdFx0XHRcdFx0PC9kaXY+XG5cdFx0XHRcdDwvZGl2PlxuXG5cdFx0XHRcdDwhLS0gRm9vdGVyIC0tPlxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleCBqdXN0aWZ5LWNlbnRlciBmbGV4LWdyb3cgdGV4dC01eGxcIj5cblx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhYiBmYS1naXRodWIgcGxhY2Utc2VsZi1jZW50ZXIgcHgtM1wiPjwvaT5cblx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhYiBmYS1mYWNlYm9vayBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCI+PC9pPlxuXHRcdFx0XHRcdDxpIGNsYXNzPVwiZmFiIGZhLWluc3RhZ3JhbSBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCI+PC9pPlxuXHRcdFx0XHQ8L2Rpdj5cblx0XHRcdDwvZGl2PlxuXHRcdDwvZGl2PlxuXHQ8L2Rpdj5cbnsvaWZ9XG5cblxuPHN0eWxlPlxuXHRAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA3MjBweClcblx0e1xuXHRcdC5ob21lIHtcblx0XHRcdHdpZHRoOiA3MjBweDtcblx0XHRcdGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuXHRcdFx0b3ZlcmZsb3c6IGhpZGRlbjtcblx0XHR9XG5cdH1cblx0XG5cdC50aXRsZSB7XG5cdFx0Zm9udC1zaXplOiAzcmVtO1xuXHRcdGxpbmUtaGVpZ2h0OiAzcmVtO1xuXHRcdGNvbG9yOiAjNTI1MjUyO1xuXHRcdC8qIHRleHQtc2hhZG93OiAxcHggMXB4IDNweCAjYmViY2JjOyAqL1xuXHR9XG5cdFxuXHQuc3ViLXRpdGxlIHtcblx0XHRmb250LXNpemU6IDEuMnJlbTtcblx0XHRmb250LXdlaWdodDogMTAwO1xuXHRcdGNvbG9yOiAjNTI1MjUyO1xuXHRcdC8qIHRleHQtc2hhZG93OiAxcHggMXB4IDNweCAjYTFhMWExOyAqL1xuXHR9XG5cdFxuXHQuc2lkZS1vbmUge1xuXHRcdGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgxMzBkZWcsICNmMGM0MzMsICNlYjdiM2YpO1xuXHR9XG5cdC5zaWRlLXR3byB7XG5cdFx0YmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG5cdFx0cGFkZGluZy10b3A6IDEwMHB4O1xuXHR9XG5cblx0QG1lZGlhIChtaW4td2lkdGg6IDc2OHB4KSB7XG5cdFx0LnNpZGUtdHdvIHtcblx0XHRcdHBhZGRpbmctdG9wOiAxLjc1cmVtO1xuXHRcdH1cblx0fVxuXHRcblx0LmRlc2Mge1xuXHRcdHdpZHRoOiA4MCU7XG5cdFx0Y29sb3I6ICM1MjUyNTI7XG5cdH1cblxuXHQuaW1hZ2Uge1xuXHRcdGJvcmRlci13aWR0aDogNXB4O1xuXHRcdGJvcmRlci1jb2xvcjogd2hpdGU7XG5cdFx0YmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KDEzMGRlZywgI2ViN2IzZiwgI2YwYzQzMyk7XG5cdFx0d2lkdGg6IDIwMHB4O1xuXHRcdGhlaWdodDogMjAwcHg7XG5cdH1cbjwvc3R5bGU+Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW1JQyxPQUFPLE1BQU0sQ0FBQyxHQUFHLENBQUMsWUFBWSxLQUFLLENBQUMsQUFDcEMsQ0FBQyxBQUNBLEtBQUssZUFBQyxDQUFDLEFBQ04sS0FBSyxDQUFFLEtBQUssQ0FDWixnQkFBZ0IsQ0FBRSxLQUFLLENBQ3ZCLFFBQVEsQ0FBRSxNQUFNLEFBQ2pCLENBQUMsQUFDRixDQUFDLEFBRUQsTUFBTSxlQUFDLENBQUMsQUFDUCxTQUFTLENBQUUsSUFBSSxDQUNmLFdBQVcsQ0FBRSxJQUFJLENBQ2pCLEtBQUssQ0FBRSxPQUFPLEFBRWYsQ0FBQyxBQUVELFVBQVUsZUFBQyxDQUFDLEFBQ1gsU0FBUyxDQUFFLE1BQU0sQ0FDakIsV0FBVyxDQUFFLEdBQUcsQ0FDaEIsS0FBSyxDQUFFLE9BQU8sQUFFZixDQUFDLEFBRUQsU0FBUyxlQUFDLENBQUMsQUFDVixnQkFBZ0IsQ0FBRSxnQkFBZ0IsTUFBTSxDQUFDLENBQUMsT0FBTyxDQUFDLENBQUMsT0FBTyxDQUFDLEFBQzVELENBQUMsQUFDRCxTQUFTLGVBQUMsQ0FBQyxBQUNWLGdCQUFnQixDQUFFLEtBQUssQ0FDdkIsV0FBVyxDQUFFLEtBQUssQUFDbkIsQ0FBQyxBQUVELE1BQU0sQUFBQyxZQUFZLEtBQUssQ0FBQyxBQUFDLENBQUMsQUFDMUIsU0FBUyxlQUFDLENBQUMsQUFDVixXQUFXLENBQUUsT0FBTyxBQUNyQixDQUFDLEFBQ0YsQ0FBQyxBQUVELEtBQUssZUFBQyxDQUFDLEFBQ04sS0FBSyxDQUFFLEdBQUcsQ0FDVixLQUFLLENBQUUsT0FBTyxBQUNmLENBQUMsQUFFRCxNQUFNLGVBQUMsQ0FBQyxBQUNQLFlBQVksQ0FBRSxHQUFHLENBQ2pCLFlBQVksQ0FBRSxLQUFLLENBQ25CLGdCQUFnQixDQUFFLGdCQUFnQixNQUFNLENBQUMsQ0FBQyxPQUFPLENBQUMsQ0FBQyxPQUFPLENBQUMsQ0FDM0QsS0FBSyxDQUFFLEtBQUssQ0FDWixNQUFNLENBQUUsS0FBSyxBQUNkLENBQUMifQ== */";
+	style.textContent = "@media screen and (min-width: 720px){.home.svelte-1w8e52v{width:720px;background-color:white;overflow:hidden}}.title.svelte-1w8e52v{font-size:3rem;line-height:3rem;color:#525252}.sub-title.svelte-1w8e52v{font-size:1.2rem;font-weight:100;color:#525252}.side-one.svelte-1w8e52v{background-image:linear-gradient(130deg, #f0c433, #eb7b3f)}.side-two.svelte-1w8e52v{background-color:white;padding-top:100px}@media(min-width: 768px){.side-two.svelte-1w8e52v{padding-top:1.75rem}}.desc.svelte-1w8e52v{width:80%;color:#525252}.image.svelte-1w8e52v{border-width:5px;border-color:white;background-image:linear-gradient(130deg, #eb7b3f, #f0c433);width:200px;height:200px}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiSG9tZS5zdmVsdGUiLCJzb3VyY2VzIjpbIkhvbWUuc3ZlbHRlIl0sInNvdXJjZXNDb250ZW50IjpbIjxzY3JpcHQgbGFuZz1cInRzXCI+aW1wb3J0IEJ1dHRvbiBmcm9tICdAY29tcG9uZW50cy9CdXR0b24uc3ZlbHRlJztcclxuaW1wb3J0IHsgc2NhbGUgfSBmcm9tICdzdmVsdGUvdHJhbnNpdGlvbic7XHJcbmltcG9ydCB7IGN1YmljT3V0LCBjdWJpY0luIH0gZnJvbSAnc3ZlbHRlL2Vhc2luZyc7XHJcbmltcG9ydCB7IG9uRGVzdHJveSwgb25Nb3VudCB9IGZyb20gJ3N2ZWx0ZSc7XHJcbmxldCBidXR0b25zID0gW1xyXG4gICAge1xyXG4gICAgICAgIGlkOiAxLFxyXG4gICAgICAgIHBhdGg6ICcvc3R1ZmYnLFxyXG4gICAgICAgIGxhYmVsOiAnU3R1ZmYgSSBtYWRlJyxcclxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYigxNzEsIDEzMCwgMjM4KSwgcmdiKDExNiwgNjcsIDE5NikpJ1xyXG4gICAgfSxcclxuICAgIHtcclxuICAgICAgICBpZDogMixcclxuICAgICAgICBwYXRoOiAnL2Fib3V0JyxcclxuICAgICAgICBsYWJlbDogJ0Fib3V0IG1lJyxcclxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYigyMzYsIDExMywgMTEzKSwgcmdiKDE5MiwgMjIsIDIyKSknXHJcbiAgICB9LFxyXG4gICAge1xyXG4gICAgICAgIGlkOiAzLFxyXG4gICAgICAgIHBhdGg6ICcvJyxcclxuICAgICAgICBsYWJlbDogJ1NvdXJjZSBjb2RlJyxcclxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYig2MSwgMjMwLCAxNTEpLCByZ2IoMjUsIDE5NCwgODEpKSdcclxuICAgIH1cclxuXTtcclxub25EZXN0cm95KCgpID0+IHtcclxuICAgICQkcHJvcHMuc2V0SW5pdGlhbExvYWQoKTtcclxufSk7XHJcbjwvc2NyaXB0PlxyXG5cclxueyNpZiAhJCRwcm9wcy5pbml0aWFsTG9hZH1cclxuXHQ8ZGl2IGNsYXNzPVwiZ3JpZCBwbGFjZS1pdGVtcy1jZW50ZXIgcGFnZSBcclxuXHRcdFx0XHRcdFx0XHRwLTAgbWQ6cC0xMCBhbnRpYWxpYXNlZCBoLXNjcmVlblwiXHJcblx0XHRpbjpzY2FsZT17eyBzdGFydDogMC43LCBvcGFjaXR5OiAwLCBkdXJhdGlvbjogMzAwLCBlYXNpbmc6IGN1YmljT3V0IH19XHJcblx0XHRvdXQ6c2NhbGU9e3sgc3RhcnQ6IDAuNywgb3BhY2l0eTogMCwgZHVyYXRpb246IDMwMCwgZWFzaW5nOiBjdWJpY0lufX0+XHJcblx0XHQ8ZGl2IGNsYXNzPVwiaG9tZSBmbGV4IGZsZXgtY29sIG1kOmZsZXgtcm93IFxyXG5cdFx0XHRcdFx0XHRcdFx0bWQ6ZmxleC13cmFwIG1kOnJvdW5kZWQtM3hsIHNoYWRvdy0yeGwgXHJcblx0XHRcdFx0XHRcdFx0XHRwbGFjZS1jb250ZW50LWFyb3VuZCB3LWZ1bGwgaC1mdWxsXCI+XHJcblx0XHRcdDxkaXYgY2xhc3M9XCJzaWRlLW9uZSBmbGV4IG1kOmZsZXgtY29sIGp1c3RpZnktY2VudGVyIFxyXG5cdFx0XHRcdFx0XHRcdFx0XHRtZDpwbGFjZS1jb250ZW50LXN0YXJ0IG1kOmgtZnVsbCBtZDp3LTEvMlwiPlxyXG5cdFx0XHRcdDwhLS0gVGVtcG9yYXJ5IC0tPlxyXG5cdFx0XHRcdDxkaXYgY2xhc3M9XCJpbWFnZSBtZDpzZWxmLWNlbnRlciB0cmFuc2Zvcm0gdHJhbnNsYXRlLXktMi80IFxyXG5cdFx0XHRcdFx0XHRcdFx0XHRcdG1kOnRyYW5zbGF0ZS15LTAgcm91bmRlZC1mdWxsIHNoYWRvdy1sZyBtZDpteS0xNlwiPjwvZGl2PlxyXG5cdFx0XHQ8L2Rpdj5cclxuXHRcdFx0PGRpdiBjbGFzcz1cInNpZGUtdHdvIGZsZXggZmxleC1jb2wgcC03IGgtZnVsbCBtZDp3LTEvMlwiPlxyXG5cdFx0XHRcdDwhLS0gSG9tZSBwYWdlIHRpdGxlIC0tPlxyXG5cdFx0XHRcdDxkaXY+XHRcclxuXHRcdFx0XHRcdDxoMyBjbGFzcz1cInN1Yi10aXRsZVwiPkhpISBJJ208L2gzPlxyXG5cdFx0XHRcdFx0PGgxIGNsYXNzPVwidGl0bGUganVzdGlmeS1zZWxmLWNlbnRlciBmb250LWJsYWNrXCI+QW50aG9ueTwvaDE+XHJcblx0XHRcdFx0PC9kaXY+XHJcblxyXG5cdFx0XHRcdDwhLS0gRGVzY3JpcHRpb24gLS0+XHJcblx0XHRcdFx0PGRpdiBjbGFzcz1cImRlc2MgcHktNVwiPlxyXG5cdFx0XHRcdFx0QWxtb3N0IGJlZm9yZSB3ZSBrbmV3IGl0LCB3ZSBoYWQgbGVmdCB0aGUgZ3JvdW5kXHJcblx0XHRcdFx0PC9kaXY+XHJcblxyXG5cdFx0XHRcdDwhLS0gTGlua3MgdG8gcGFnZXMgLS0+XHJcblx0XHRcdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC13cmFwIGNvbnRlbnQtY2VudGVyIGZsZXgtZ3Jvd1wiPlxyXG5cdFx0XHRcdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC1jb2wgdy1mdWxsIGgtNTAgbWQ6dy00LzVcIj5cclxuXHRcdFx0XHRcdFx0eyNlYWNoIGJ1dHRvbnMgYXMgYnV0dG9uLCBpIChidXR0b24uaWQpfVxyXG5cdFx0XHRcdFx0XHRcdDxkaXYgY2xhc3M9XCJtZDpqdXN0aWZ5LXNlbGYtc3RhcnQgbS0yXCIgXHJcblx0XHRcdFx0XHRcdFx0XHRcdGluOnNjYWxlPXt7IHN0YXJ0OiAwLjUsIG9wYWNpdHk6IDEsIGR1cmF0aW9uOiAzMDAgKiBidXR0b24uaWQsIGVhc2luZzogY3ViaWNPdXQgfX0gXHJcblx0XHRcdFx0XHRcdFx0XHRcdG91dDpzY2FsZT17eyBzdGFydDogMC41LCBvcGFjaXR5OiAwLCBkdXJhdGlvbjogMTAwICogYnV0dG9uLmlkLCBlYXNpbmc6IGN1YmljSW4gfX0+XHJcblx0XHRcdFx0XHRcdFx0XHQ8QnV0dG9uIGxpbms9e2J1dHRvbi5wYXRofSBjb2xvcj17YnV0dG9uLmNvbG9yfT57YnV0dG9uLmxhYmVsfTwvQnV0dG9uPlxyXG5cdFx0XHRcdFx0XHRcdDwvZGl2PlxyXG5cdFx0XHRcdFx0XHR7L2VhY2h9XHJcblx0XHRcdFx0XHQ8L2Rpdj5cclxuXHRcdFx0XHQ8L2Rpdj5cclxuXHJcblx0XHRcdFx0PCEtLSBGb290ZXIgLS0+XHJcblx0XHRcdFx0PGRpdiBjbGFzcz1cImZvb3RlciBmbGV4IGp1c3RpZnktY2VudGVyIGZsZXgtZ3JvdyB0ZXh0LTV4bFwiPlxyXG5cdFx0XHRcdFx0PGkgY2xhc3M9XCJmYWIgZmEtZ2l0aHViIHBsYWNlLXNlbGYtY2VudGVyIHB4LTNcIlxyXG5cdFx0XHRcdFx0XHRpbjpzY2FsZT17eyBzdGFydDogMCwgb3BhY2l0eTogMCwgZHVyYXRpb246IDUwMCwgZWFzaW5nOiBjdWJpY091dCB9fT48L2k+XHJcblx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhYiBmYS1mYWNlYm9vayBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCJcclxuXHRcdFx0XHRcdFx0aW46c2NhbGU9e3sgc3RhcnQ6IDAsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAxMDAwLCBlYXNpbmc6IGN1YmljT3V0IH19PjwvaT5cclxuXHRcdFx0XHRcdDxpIGNsYXNzPVwiZmFiIGZhLWluc3RhZ3JhbSBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCJcclxuXHRcdFx0XHRcdFx0aW46c2NhbGU9e3sgc3RhcnQ6IDAsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAxNTAwLCBlYXNpbmc6IGN1YmljT3V0IH19PjwvaT5cclxuXHRcdFx0XHQ8L2Rpdj5cclxuXHRcdFx0PC9kaXY+XHJcblx0XHQ8L2Rpdj5cclxuXHQ8L2Rpdj5cclxuXHJcbns6ZWxzZX1cclxuXHQ8ZGl2IGNsYXNzPVwiZ3JpZCBwbGFjZS1pdGVtcy1jZW50ZXIgcGFnZSBcclxuXHRcdFx0XHRwLTAgbWQ6cC0xMCBhbnRpYWxpYXNlZCBoLXNjcmVlblwiXHJcblx0XHRcdFx0b3V0OnNjYWxlPXt7IHN0YXJ0OiAwLjcsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAzMDAsIGVhc2luZzogY3ViaWNJbn19PlxyXG5cdFx0PGRpdiBjbGFzcz1cImhvbWUgZmxleCBmbGV4LWNvbCBtZDpmbGV4LXJvdyBtZDpmbGV4LXdyYXAgXHJcblx0XHRcdFx0XHRtZDpyb3VuZGVkLTN4bCBzaGFkb3ctMnhsIFxyXG5cdFx0XHRcdFx0cGxhY2UtY29udGVudC1hcm91bmQgdy1mdWxsIGgtZnVsbFwiPlxyXG5cdFx0XHQ8ZGl2IGNsYXNzPVwic2lkZS1vbmUgZmxleCBtZDpmbGV4LWNvbCBqdXN0aWZ5LWNlbnRlciBcclxuXHRcdFx0XHRcdFx0bWQ6cGxhY2UtY29udGVudC1zdGFydCBtZDpoLWZ1bGwgbWQ6dy0xLzJcIj5cclxuXHRcdFx0XHQ8IS0tIFRlbXBvcmFyeSAtLT5cclxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiaW1hZ2UgbWQ6c2VsZi1jZW50ZXIgdHJhbnNmb3JtIHRyYW5zbGF0ZS15LTIvNCBcclxuXHRcdFx0XHRcdFx0XHRtZDp0cmFuc2xhdGUteS0wIHJvdW5kZWQtZnVsbCBzaGFkb3ctbGcgbWQ6bXktMTZcIj48L2Rpdj5cclxuXHRcdFx0PC9kaXY+XHJcblx0XHRcdDxkaXYgY2xhc3M9XCJzaWRlLXR3byBmbGV4IGZsZXgtY29sIHAtNyBoLWZ1bGwgbWQ6dy0xLzJcIj5cclxuXHRcdFx0XHQ8IS0tIEhvbWUgcGFnZSB0aXRsZSAtLT5cclxuXHRcdFx0XHQ8ZGl2Plx0XHJcblx0XHRcdFx0XHQ8aDMgY2xhc3M9XCJzdWItdGl0bGVcIj5IaSEgSSdtPC9oMz5cclxuXHRcdFx0XHRcdDxoMSBjbGFzcz1cInRpdGxlIGp1c3RpZnktc2VsZi1jZW50ZXIgZm9udC1ibGFja1wiPkFudGhvbnkgTWVzaW5hPC9oMT5cclxuXHRcdFx0XHQ8L2Rpdj5cclxuXHJcblx0XHRcdFx0PCEtLSBEZXNjcmlwdGlvbiAtLT5cclxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZGVzYyBweS01XCI+XHJcblx0XHRcdFx0XHRBbG1vc3QgYmVmb3JlIHdlIGtuZXcgaXQsIHdlIGhhZCBsZWZ0IHRoZSBncm91bmRcclxuXHRcdFx0XHQ8L2Rpdj5cclxuXHJcblx0XHRcdFx0PCEtLSBMaW5rcyB0byBwYWdlcyAtLT5cclxuXHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleCBmbGV4LXdyYXAgY29udGVudC1jZW50ZXIgZmxleC1ncm93XCI+XHJcblx0XHRcdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleCBmbGV4LWNvbCB3LWZ1bGwgaC01MCBtZDp3LTQvNVwiPlxyXG5cdFx0XHRcdFx0XHR7I2VhY2ggYnV0dG9ucyBhcyBidXR0b24sIGkgKGJ1dHRvbi5pZCl9XHJcblx0XHRcdFx0XHRcdFx0PGRpdiBjbGFzcz1cIm1kOmp1c3RpZnktc2VsZi1zdGFydCBtLTIgaC1mdWxsXCIgXHJcblx0XHRcdFx0XHRcdFx0XHRcdCBvdXQ6c2NhbGU9e3sgc3RhcnQ6IDAuNSwgb3BhY2l0eTogMCwgZHVyYXRpb246IDEwMCAqIGJ1dHRvbi5pZCwgZWFzaW5nOiBjdWJpY0luIH19PlxyXG5cdFx0XHRcdFx0XHRcdFx0PEJ1dHRvbiBsaW5rPXtidXR0b24ucGF0aH0gY29sb3I9e2J1dHRvbi5jb2xvcn0+e2J1dHRvbi5sYWJlbH08L0J1dHRvbj5cclxuXHRcdFx0XHRcdFx0XHQ8L2Rpdj5cclxuXHRcdFx0XHRcdFx0ey9lYWNofVxyXG5cdFx0XHRcdFx0PC9kaXY+XHJcblx0XHRcdFx0PC9kaXY+XHJcblxyXG5cdFx0XHRcdDwhLS0gRm9vdGVyIC0tPlxyXG5cdFx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4IGp1c3RpZnktY2VudGVyIGZsZXgtZ3JvdyB0ZXh0LTV4bFwiPlxyXG5cdFx0XHRcdFx0PGkgY2xhc3M9XCJmYWIgZmEtZ2l0aHViIHBsYWNlLXNlbGYtY2VudGVyIHB4LTNcIj48L2k+XHJcblx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhYiBmYS1mYWNlYm9vayBwbGFjZS1zZWxmLWNlbnRlciBweC0zXCI+PC9pPlxyXG5cdFx0XHRcdFx0PGkgY2xhc3M9XCJmYWIgZmEtaW5zdGFncmFtIHBsYWNlLXNlbGYtY2VudGVyIHB4LTNcIj48L2k+XHJcblx0XHRcdFx0PC9kaXY+XHJcblx0XHRcdDwvZGl2PlxyXG5cdFx0PC9kaXY+XHJcblx0PC9kaXY+XHJcbnsvaWZ9XHJcblxyXG5cclxuPHN0eWxlPlxyXG5cdEBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDcyMHB4KVxyXG5cdHtcclxuXHRcdC5ob21lIHtcclxuXHRcdFx0d2lkdGg6IDcyMHB4O1xyXG5cdFx0XHRiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcclxuXHRcdFx0b3ZlcmZsb3c6IGhpZGRlbjtcclxuXHRcdH1cclxuXHR9XHJcblx0XHJcblx0LnRpdGxlIHtcclxuXHRcdGZvbnQtc2l6ZTogM3JlbTtcclxuXHRcdGxpbmUtaGVpZ2h0OiAzcmVtO1xyXG5cdFx0Y29sb3I6ICM1MjUyNTI7XHJcblx0XHQvKiB0ZXh0LXNoYWRvdzogMXB4IDFweCAzcHggI2JlYmNiYzsgKi9cclxuXHR9XHJcblx0XHJcblx0LnN1Yi10aXRsZSB7XHJcblx0XHRmb250LXNpemU6IDEuMnJlbTtcclxuXHRcdGZvbnQtd2VpZ2h0OiAxMDA7XHJcblx0XHRjb2xvcjogIzUyNTI1MjtcclxuXHRcdC8qIHRleHQtc2hhZG93OiAxcHggMXB4IDNweCAjYTFhMWExOyAqL1xyXG5cdH1cclxuXHRcclxuXHQuc2lkZS1vbmUge1xyXG5cdFx0YmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KDEzMGRlZywgI2YwYzQzMywgI2ViN2IzZik7XHJcblx0fVxyXG5cdC5zaWRlLXR3byB7XHJcblx0XHRiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcclxuXHRcdHBhZGRpbmctdG9wOiAxMDBweDtcclxuXHR9XHJcblxyXG5cdEBtZWRpYSAobWluLXdpZHRoOiA3NjhweCkge1xyXG5cdFx0LnNpZGUtdHdvIHtcclxuXHRcdFx0cGFkZGluZy10b3A6IDEuNzVyZW07XHJcblx0XHR9XHJcblx0fVxyXG5cdFxyXG5cdC5kZXNjIHtcclxuXHRcdHdpZHRoOiA4MCU7XHJcblx0XHRjb2xvcjogIzUyNTI1MjtcclxuXHR9XHJcblxyXG5cdC5pbWFnZSB7XHJcblx0XHRib3JkZXItd2lkdGg6IDVweDtcclxuXHRcdGJvcmRlci1jb2xvcjogd2hpdGU7XHJcblx0XHRiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoMTMwZGVnLCAjZWI3YjNmLCAjZjBjNDMzKTtcclxuXHRcdHdpZHRoOiAyMDBweDtcclxuXHRcdGhlaWdodDogMjAwcHg7XHJcblx0fVxyXG48L3N0eWxlPiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtSUMsT0FBTyxNQUFNLENBQUMsR0FBRyxDQUFDLFlBQVksS0FBSyxDQUFDLEFBQ3BDLENBQUMsQUFDQSxLQUFLLGVBQUMsQ0FBQyxBQUNOLEtBQUssQ0FBRSxLQUFLLENBQ1osZ0JBQWdCLENBQUUsS0FBSyxDQUN2QixRQUFRLENBQUUsTUFBTSxBQUNqQixDQUFDLEFBQ0YsQ0FBQyxBQUVELE1BQU0sZUFBQyxDQUFDLEFBQ1AsU0FBUyxDQUFFLElBQUksQ0FDZixXQUFXLENBQUUsSUFBSSxDQUNqQixLQUFLLENBQUUsT0FBTyxBQUVmLENBQUMsQUFFRCxVQUFVLGVBQUMsQ0FBQyxBQUNYLFNBQVMsQ0FBRSxNQUFNLENBQ2pCLFdBQVcsQ0FBRSxHQUFHLENBQ2hCLEtBQUssQ0FBRSxPQUFPLEFBRWYsQ0FBQyxBQUVELFNBQVMsZUFBQyxDQUFDLEFBQ1YsZ0JBQWdCLENBQUUsZ0JBQWdCLE1BQU0sQ0FBQyxDQUFDLE9BQU8sQ0FBQyxDQUFDLE9BQU8sQ0FBQyxBQUM1RCxDQUFDLEFBQ0QsU0FBUyxlQUFDLENBQUMsQUFDVixnQkFBZ0IsQ0FBRSxLQUFLLENBQ3ZCLFdBQVcsQ0FBRSxLQUFLLEFBQ25CLENBQUMsQUFFRCxNQUFNLEFBQUMsWUFBWSxLQUFLLENBQUMsQUFBQyxDQUFDLEFBQzFCLFNBQVMsZUFBQyxDQUFDLEFBQ1YsV0FBVyxDQUFFLE9BQU8sQUFDckIsQ0FBQyxBQUNGLENBQUMsQUFFRCxLQUFLLGVBQUMsQ0FBQyxBQUNOLEtBQUssQ0FBRSxHQUFHLENBQ1YsS0FBSyxDQUFFLE9BQU8sQUFDZixDQUFDLEFBRUQsTUFBTSxlQUFDLENBQUMsQUFDUCxZQUFZLENBQUUsR0FBRyxDQUNqQixZQUFZLENBQUUsS0FBSyxDQUNuQixnQkFBZ0IsQ0FBRSxnQkFBZ0IsTUFBTSxDQUFDLENBQUMsT0FBTyxDQUFDLENBQUMsT0FBTyxDQUFDLENBQzNELEtBQUssQ0FBRSxLQUFLLENBQ1osTUFBTSxDQUFFLEtBQUssQUFDZCxDQUFDIn0= */";
 	Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["append_dev"])(document.head, style);
 }
 
@@ -23887,7 +23819,7 @@ function create_else_block(ctx) {
 			h3.textContent = "Hi! I'm";
 			t2 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			h1 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("h1");
-			h1.textContent = "Anthony";
+			h1.textContent = "Anthony Mesina";
 			t4 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			div3 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("div");
 			div3.textContent = "Almost before we knew it, we had left the ground";
@@ -23906,35 +23838,35 @@ function create_else_block(ctx) {
 			i1 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("i");
 			t9 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			i2 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("i");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "image md:self-center transform translate-y-2/4 \n\t\t\t\t\t\t\tmd:translate-y-0 rounded-full shadow-lg md:my-16 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 91, 4, 3282);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "side-one flex md:flex-col justify-center \n\t\t\t\t\t\tmd:place-content-start md:h-full md:w-1/2 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 88, 3, 3151);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "image md:self-center transform translate-y-2/4 \r\n\t\t\t\t\t\t\tmd:translate-y-0 rounded-full shadow-lg md:my-16 svelte-1w8e52v");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 91, 4, 3373);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "side-one flex md:flex-col justify-center \r\n\t\t\t\t\t\tmd:place-content-start md:h-full md:w-1/2 svelte-1w8e52v");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 88, 3, 3239);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h3, "class", "sub-title svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h3, file, 97, 5, 3521);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h3, file, 97, 5, 3618);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h1, "class", "title justify-self-center font-black svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 98, 5, 3561);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 96, 4, 3509);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 98, 5, 3659);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 96, 4, 3605);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div3, "class", "desc py-5 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 102, 4, 3664);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 102, 4, 3773);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", "flex flex-col w-full h-50 md:w-4/5");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 108, 5, 3845);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 108, 5, 3960);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div5, "class", "flex flex-wrap content-center flex-grow");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div5, file, 107, 4, 3786);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div5, file, 107, 4, 3900);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i0, "class", "fab fa-github place-self-center px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i0, file, 120, 5, 4303);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i0, file, 120, 5, 4430);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i1, "class", "fab fa-facebook place-self-center px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i1, file, 121, 5, 4361);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i1, file, 121, 5, 4489);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i2, "class", "fab fa-instagram place-self-center px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i2, file, 122, 5, 4421);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i2, file, 122, 5, 4550);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div6, "class", "flex justify-center flex-grow text-5xl");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div6, file, 119, 4, 4245);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div6, file, 119, 4, 4371);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div7, "class", "side-two flex flex-col p-7 h-full md:w-1/2 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div7, file, 94, 3, 3419);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div8, "class", "home flex flex-col md:flex-row md:flex-wrap \n\t\t\t\t\tmd:rounded-3xl shadow-2xl \n\t\t\t\t\tplace-content-around w-full h-full svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div8, file, 85, 2, 3017);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div9, "class", "grid place-items-center page \n\t\t\t\tp-0 md:p-10 antialiased h-screen");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div9, file, 82, 1, 2860);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div7, file, 94, 3, 3513);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div8, "class", "home flex flex-col md:flex-row md:flex-wrap \r\n\t\t\t\t\tmd:rounded-3xl shadow-2xl \r\n\t\t\t\t\tplace-content-around w-full h-full svelte-1w8e52v");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div8, file, 85, 2, 3102);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div9, "class", "grid place-items-center page \r\n\t\t\t\tp-0 md:p-10 antialiased h-screen");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div9, file, 82, 1, 2942);
 		},
 		m: function mount(target, anchor) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["insert_dev"])(target, div9, anchor);
@@ -24099,35 +24031,35 @@ function create_if_block(ctx) {
 			i1 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("i");
 			t9 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			i2 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("i");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "image md:self-center transform translate-y-2/4 \n\t\t\t\t\t\t\t\t\t\tmd:translate-y-0 rounded-full shadow-lg md:my-16 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 40, 4, 1295);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "side-one flex md:flex-col justify-center \n\t\t\t\t\t\t\t\t\tmd:place-content-start md:h-full md:w-1/2 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 37, 3, 1161);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "image md:self-center transform translate-y-2/4 \r\n\t\t\t\t\t\t\t\t\t\tmd:translate-y-0 rounded-full shadow-lg md:my-16 svelte-1w8e52v");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 40, 4, 1335);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "side-one flex md:flex-col justify-center \r\n\t\t\t\t\t\t\t\t\tmd:place-content-start md:h-full md:w-1/2 svelte-1w8e52v");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 37, 3, 1198);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h3, "class", "sub-title svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h3, file, 46, 5, 1537);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h3, file, 46, 5, 1583);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h1, "class", "title justify-self-center font-black svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 47, 5, 1577);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 45, 4, 1525);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 47, 5, 1624);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 45, 4, 1570);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div3, "class", "desc py-5 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 51, 4, 1680);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 51, 4, 1731);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", "flex flex-col w-full h-50 md:w-4/5");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 57, 5, 1861);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 57, 5, 1918);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div5, "class", "flex flex-wrap content-center flex-grow");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div5, file, 56, 4, 1802);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div5, file, 56, 4, 1858);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i0, "class", "fab fa-github place-self-center px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i0, file, 70, 5, 2411);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i0, file, 70, 5, 2481);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i1, "class", "fab fa-facebook place-self-center px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i1, file, 72, 5, 2544);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i1, file, 72, 5, 2616);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i2, "class", "fab fa-instagram place-self-center px-3");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i2, file, 74, 5, 2680);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i2, file, 74, 5, 2754);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div6, "class", "footer flex justify-center flex-grow text-5xl");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div6, file, 69, 4, 2346);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div6, file, 69, 4, 2415);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div7, "class", "side-two flex flex-col p-7 h-full md:w-1/2 svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div7, file, 43, 3, 1435);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div8, "class", "home flex flex-col md:flex-row \n\t\t\t\t\t\t\t\tmd:flex-wrap md:rounded-3xl shadow-2xl \n\t\t\t\t\t\t\t\tplace-content-around w-full h-full svelte-1w8e52v");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div8, file, 34, 2, 1021);
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div9, "class", "grid place-items-center page \n\t\t\t\t\t\t\tp-0 md:p-10 antialiased h-screen");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div9, file, 30, 1, 790);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div7, file, 43, 3, 1478);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div8, "class", "home flex flex-col md:flex-row \r\n\t\t\t\t\t\t\t\tmd:flex-wrap md:rounded-3xl shadow-2xl \r\n\t\t\t\t\t\t\t\tplace-content-around w-full h-full svelte-1w8e52v");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div8, file, 34, 2, 1055);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div9, "class", "grid place-items-center page \r\n\t\t\t\t\t\t\tp-0 md:p-10 antialiased h-screen");
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div9, file, 30, 1, 820);
 		},
 		m: function mount(target, anchor) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["insert_dev"])(target, div9, anchor);
@@ -24325,7 +24257,7 @@ function create_each_block_1(key_1, ctx) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_component"])(button.$$.fragment);
 			t = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div, "class", "md:justify-self-start m-2 h-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 110, 7, 3948);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 110, 7, 4065);
 			this.first = div;
 		},
 		m: function mount(target, anchor) {
@@ -24436,7 +24368,7 @@ function create_each_block(key_1, ctx) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_component"])(button.$$.fragment);
 			t = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div, "class", "md:justify-self-start m-2");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 59, 7, 1964);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 59, 7, 2023);
 			this.first = div;
 		},
 		m: function mount(target, anchor) {
@@ -24657,7 +24589,7 @@ class Home extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponent
 		});
 	}
 }
-if (module && module.hot) { Home = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_5__["applyHmr"]({ m: module, id: "\"src/pages/Home.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Home, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_6__["default"], compileData: {"vars":[{"name":"Button","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"scale","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"cubicOut","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"cubicIn","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"onDestroy","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"onMount","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"buttons","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"$props","export_name":null,"injected":true,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/pages/Home.svelte","format":"esm","dev":true}, cssId: "svelte-1w8e52v-style", nonCssHash: "15ospk5", }); }
+if (module && module.hot) { Home = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_5__["applyHmr"]({ m: module, id: "\"src\\\\pages\\\\Home.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Home, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_6__["default"], compileData: {"vars":[{"name":"Button","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"scale","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"cubicOut","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"cubicIn","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"onDestroy","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":true},{"name":"onMount","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"buttons","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false},{"name":"$props","export_name":null,"injected":true,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\pages\\Home.svelte","format":"esm","dev":true}, cssId: "svelte-1w8e52v-style", nonCssHash: "10vm03y", }); }
 /* harmony default export */ __webpack_exports__["default"] = (Home);
 
 if (typeof add_css !== 'undefined' && !document.getElementById("svelte-1w8e52v-style")) add_css();
@@ -24678,19 +24610,19 @@ __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var svelte_internal__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! svelte/internal */ "./node_modules/svelte/internal/index.mjs");
 /* harmony import */ var _components_Stuff_Card_svelte__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @components/Stuff/Card.svelte */ "./src/components/Stuff/Card.svelte");
 /* harmony import */ var _components_Button_svelte__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @components/Button.svelte */ "./src/components/Button.svelte");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
-/* harmony import */ var _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
-/* src/pages/Stuff.svelte generated by Svelte v3.38.0 */
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js */ "./node_modules/svelte-loader-hot/lib/svelte3/hot-api.js");
+/* harmony import */ var D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js */ "./node_modules/svelte-hmr/runtime/proxy-adapter-dom.js");
+/* src\pages\Stuff.svelte generated by Svelte v3.35.0 */
 
 
 
 
-const file = "src/pages/Stuff.svelte";
+const file = "src\\pages\\Stuff.svelte";
 
 function add_css() {
 	var style = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("style");
 	style.id = "svelte-1jqxwph-style";
-	style.textContent = ".title.svelte-1jqxwph{color:#525252}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiU3R1ZmYuc3ZlbHRlIiwic291cmNlcyI6WyJTdHVmZi5zdmVsdGUiXSwic291cmNlc0NvbnRlbnQiOlsiPHNjcmlwdCBsYW5nPVwidHNcIj5pbXBvcnQgQ2FyZCwgeyBoYXNNYXhpbWl6ZWRDYXJkIH0gZnJvbSAnQGNvbXBvbmVudHMvU3R1ZmYvQ2FyZC5zdmVsdGUnO1xuaW1wb3J0IEJ1dHRvbiBmcm9tICdAY29tcG9uZW50cy9CdXR0b24uc3ZlbHRlJztcbmxldCBidXR0b25zID0gW1xuICAgIHtcbiAgICAgICAgaWQ6IDEsXG4gICAgICAgIHBhdGg6ICcvJyxcbiAgICAgICAgbGFiZWw6ICdmYS1ob21lJyxcbiAgICAgICAgY29sb3I6ICdsaW5lYXItZ3JhZGllbnQoMTUwZGVnLCAjZjBjNDMzLCAjZWI3YjNmKScsXG4gICAgICAgIHRpdGxlOiAnSG9tZSdcbiAgICB9LFxuICAgIHtcbiAgICAgICAgaWQ6IDIsXG4gICAgICAgIHBhdGg6ICcvYWJvdXQnLFxuICAgICAgICBsYWJlbDogJ2ZhLXVzZXInLFxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYigyMzYsIDExMywgMTEzKSwgcmdiKDE5MiwgMjIsIDIyKSknLFxuICAgICAgICB0aXRsZTogJ0Fib3V0IG1lJ1xuICAgIH0sXG4gICAge1xuICAgICAgICBpZDogMyxcbiAgICAgICAgcGF0aDogJy8nLFxuICAgICAgICBsYWJlbDogJ2ZhLWNvZGUnLFxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYig2MSwgMjMwLCAxNTEpLCByZ2IoMjUsIDE5NCwgODEpKScsXG4gICAgICAgIHRpdGxlOiAnU291cmNlIGNvZGUnXG4gICAgfVxuXTtcbjwvc2NyaXB0PlxuXG48ZGl2IGNsYXNzPVwicC01IGFudGlhbGlhc2VkIGgtZnVsbCBvdmVyZmxvdy15LWF1dG9cIlxuXHRcdCBvbjpzY3JvbGw9e2UgPT4gZS5wcmV2ZW50RGVmYXVsdCgpfT5cblx0PGRpdiBjbGFzcz1cImdyaWQgYW50aWFsaWFzZWQgdy1mdWxsXCI+XG5cdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC1jb2wgdy1mdWxsXCI+XG5cdFx0XHQ8aDEgY2xhc3M9XCJ0aXRsZSBzZWxmLWNlbnRlciBmb250LWJsYWNrIHB5LTIgbWQ6dGV4dC01eGxcIj5TdHVmZiAgSSBtYWRlPC9oMT5cblx0XHRcdDxkaXYgY2xhc3M9XCJmbGV4IGZsZXgtcm93IGNvbnRlbnQtY2VudGVyIGp1c3RpZnktY2VudGVyIHNlbGYtY2VudGVyIHctNjQgbWQ6dy05NlwiPlxuXHRcdFx0XHR7I2VhY2ggYnV0dG9ucyBhcyBidXR0b24sIGkgKGJ1dHRvbi5pZCl9XG5cdFx0XHRcdFx0PGRpdiBjbGFzcz1cImp1c3RpZnktc2VsZi1jZW50ZXIgbXgtMiB3LWZ1bGxcIj4gPCEtLW91dDpzY2FsZT17eyBzdGFydDogMC41LCBvcGFjaXR5OiAwLCBkdXJhdGlvbjogMTAwICogYnV0dG9uLmlkLCBlYXNpbmc6IGN1YmljSW4gfX0+IC0tPlxuXHRcdFx0XHRcdFx0PEJ1dHRvbiB0aXRsZT1cIntidXR0b24udGl0bGV9XCIgbGluaz17YnV0dG9uLnBhdGh9IGNvbG9yPXtidXR0b24uY29sb3J9PlxuXHRcdFx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhIHtidXR0b24ubGFiZWx9XCIgYXJpYS1oaWRkZW49XCJ0cnVlXCI+PC9pPlxuXHRcdFx0XHRcdFx0PC9CdXR0b24+XG5cdFx0XHRcdFx0PC9kaXY+XG5cdFx0XHRcdHsvZWFjaH1cblx0XHRcdDwvZGl2PlxuXHRcdDwvZGl2PlxuXHQ8L2Rpdj5cblx0PGRpdiBjbGFzcz1cImZsZXggZmxleC13cmFwIGZsZXgtZ3JvdyBjb250ZW50LWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtZDpweS0xIHctZnVsbFwiPlxuXHRcdDxDYXJkIGlkPXsxfS8+XG5cdFx0PENhcmQgaWQ9ezJ9Lz4gXG5cdFx0PENhcmQgaWQ9ezN9Lz5cblx0PC9kaXY+XG48L2Rpdj5cblxuPHN0eWxlPlxuXHQudGl0bGUge1xuXHRcdGNvbG9yOiAjNTI1MjUyO1xuXHR9XG48L3N0eWxlPiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtREMsTUFBTSxlQUFDLENBQUMsQUFDUCxLQUFLLENBQUUsT0FBTyxBQUNmLENBQUMifQ== */";
+	style.textContent = ".title.svelte-1jqxwph{color:#525252}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiU3R1ZmYuc3ZlbHRlIiwic291cmNlcyI6WyJTdHVmZi5zdmVsdGUiXSwic291cmNlc0NvbnRlbnQiOlsiPHNjcmlwdCBsYW5nPVwidHNcIj5pbXBvcnQgQ2FyZCwgeyBoYXNNYXhpbWl6ZWRDYXJkIH0gZnJvbSAnQGNvbXBvbmVudHMvU3R1ZmYvQ2FyZC5zdmVsdGUnO1xyXG5pbXBvcnQgQnV0dG9uIGZyb20gJ0Bjb21wb25lbnRzL0J1dHRvbi5zdmVsdGUnO1xyXG5sZXQgYnV0dG9ucyA9IFtcclxuICAgIHtcclxuICAgICAgICBpZDogMSxcclxuICAgICAgICBwYXRoOiAnLycsXHJcbiAgICAgICAgbGFiZWw6ICdmYS1ob21lJyxcclxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsICNmMGM0MzMsICNlYjdiM2YpJyxcclxuICAgICAgICB0aXRsZTogJ0hvbWUnXHJcbiAgICB9LFxyXG4gICAge1xyXG4gICAgICAgIGlkOiAyLFxyXG4gICAgICAgIHBhdGg6ICcvYWJvdXQnLFxyXG4gICAgICAgIGxhYmVsOiAnZmEtdXNlcicsXHJcbiAgICAgICAgY29sb3I6ICdsaW5lYXItZ3JhZGllbnQoMTUwZGVnLCByZ2IoMjM2LCAxMTMsIDExMyksIHJnYigxOTIsIDIyLCAyMikpJyxcclxuICAgICAgICB0aXRsZTogJ0Fib3V0IG1lJ1xyXG4gICAgfSxcclxuICAgIHtcclxuICAgICAgICBpZDogMyxcclxuICAgICAgICBwYXRoOiAnLycsXHJcbiAgICAgICAgbGFiZWw6ICdmYS1jb2RlJyxcclxuICAgICAgICBjb2xvcjogJ2xpbmVhci1ncmFkaWVudCgxNTBkZWcsIHJnYig2MSwgMjMwLCAxNTEpLCByZ2IoMjUsIDE5NCwgODEpKScsXHJcbiAgICAgICAgdGl0bGU6ICdTb3VyY2UgY29kZSdcclxuICAgIH1cclxuXTtcclxuPC9zY3JpcHQ+XHJcblxyXG48ZGl2IGNsYXNzPVwicC01IGFudGlhbGlhc2VkIGgtZnVsbCBvdmVyZmxvdy15LWF1dG9cIlxyXG5cdFx0IG9uOnNjcm9sbD17ZSA9PiBlLnByZXZlbnREZWZhdWx0KCl9PlxyXG5cdDxkaXYgY2xhc3M9XCJncmlkIGFudGlhbGlhc2VkIHctZnVsbFwiPlxyXG5cdFx0PGRpdiBjbGFzcz1cImZsZXggZmxleC1jb2wgdy1mdWxsXCI+XHJcblx0XHRcdDxoMSBjbGFzcz1cInRpdGxlIHNlbGYtY2VudGVyIGZvbnQtYmxhY2sgcHktMiBtZDp0ZXh0LTV4bFwiPlN0dWZmICBJIG1hZGU8L2gxPlxyXG5cdFx0XHQ8ZGl2IGNsYXNzPVwiZmxleCBmbGV4LXJvdyBjb250ZW50LWNlbnRlciBqdXN0aWZ5LWNlbnRlciBzZWxmLWNlbnRlciB3LTY0IG1kOnctOTZcIj5cclxuXHRcdFx0XHR7I2VhY2ggYnV0dG9ucyBhcyBidXR0b24sIGkgKGJ1dHRvbi5pZCl9XHJcblx0XHRcdFx0XHQ8ZGl2IGNsYXNzPVwianVzdGlmeS1zZWxmLWNlbnRlciBteC0yIHctZnVsbFwiPiA8IS0tb3V0OnNjYWxlPXt7IHN0YXJ0OiAwLjUsIG9wYWNpdHk6IDAsIGR1cmF0aW9uOiAxMDAgKiBidXR0b24uaWQsIGVhc2luZzogY3ViaWNJbiB9fT4gLS0+XHJcblx0XHRcdFx0XHRcdDxCdXR0b24gdGl0bGU9XCJ7YnV0dG9uLnRpdGxlfVwiIGxpbms9e2J1dHRvbi5wYXRofSBjb2xvcj17YnV0dG9uLmNvbG9yfT5cclxuXHRcdFx0XHRcdFx0XHQ8aSBjbGFzcz1cImZhIHtidXR0b24ubGFiZWx9XCIgYXJpYS1oaWRkZW49XCJ0cnVlXCI+PC9pPlxyXG5cdFx0XHRcdFx0XHQ8L0J1dHRvbj5cclxuXHRcdFx0XHRcdDwvZGl2PlxyXG5cdFx0XHRcdHsvZWFjaH1cclxuXHRcdFx0PC9kaXY+XHJcblx0XHQ8L2Rpdj5cclxuXHQ8L2Rpdj5cclxuXHQ8ZGl2IGNsYXNzPVwiZmxleCBmbGV4LXdyYXAgZmxleC1ncm93IGNvbnRlbnQtY2VudGVyIGp1c3RpZnktY2VudGVyIG1kOnB5LTEgdy1mdWxsXCI+XHJcblx0XHQ8Q2FyZCBpZD17MX0vPlxyXG5cdFx0PENhcmQgaWQ9ezJ9Lz4gXHJcblx0XHQ8Q2FyZCBpZD17M30vPlxyXG5cdDwvZGl2PlxyXG48L2Rpdj5cclxuXHJcbjxzdHlsZT5cclxuXHQudGl0bGUge1xyXG5cdFx0Y29sb3I6ICM1MjUyNTI7XHJcblx0fVxyXG48L3N0eWxlPiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFtREMsTUFBTSxlQUFDLENBQUMsQUFDUCxLQUFLLENBQUUsT0FBTyxBQUNmLENBQUMifQ== */";
 	Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["append_dev"])(document.head, style);
 }
 
@@ -24711,7 +24643,7 @@ function create_default_slot(ctx) {
 			i = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["element"])("i");
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i, "class", i_class_value = "fa " + /*button*/ ctx[1].label + " svelte-1jqxwph");
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(i, "aria-hidden", "true");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i, file, 36, 7, 1294);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(i, file, 36, 7, 1330);
 		},
 		m: function mount(target, anchor) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["insert_dev"])(target, i, anchor);
@@ -24759,7 +24691,7 @@ function create_each_block(key_1, ctx) {
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_component"])(button.$$.fragment);
 			t = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div, "class", "justify-self-center mx-2 w-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 34, 5, 1071);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div, file, 34, 5, 1105);
 			this.first = div;
 		},
 		m: function mount(target, anchor) {
@@ -24860,17 +24792,17 @@ function create_fragment(ctx) {
 			t4 = Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["space"])();
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["create_component"])(card2.$$.fragment);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(h1, "class", "title self-center font-black py-2 md:text-5xl svelte-1jqxwph");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 31, 3, 858);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(h1, file, 31, 3, 889);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div0, "class", "flex flex-row content-center justify-center self-center w-64 md:w-96");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 32, 3, 938);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div0, file, 32, 3, 970);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div1, "class", "flex flex-col w-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 30, 2, 820);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div1, file, 30, 2, 850);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div2, "class", "grid antialiased w-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 29, 1, 780);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div2, file, 29, 1, 809);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div3, "class", "flex flex-wrap flex-grow content-center justify-center md:py-1 w-full");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 43, 1, 1415);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div3, file, 43, 1, 1458);
 			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["attr_dev"])(div4, "class", "p-5 antialiased h-full overflow-y-auto");
-			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 27, 0, 687);
+			Object(svelte_internal__WEBPACK_IMPORTED_MODULE_0__["add_location"])(div4, file, 27, 0, 714);
 		},
 		l: function claim(nodes) {
 			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -25022,7 +24954,7 @@ class Stuff extends svelte_internal__WEBPACK_IMPORTED_MODULE_0__["SvelteComponen
 		});
 	}
 }
-if (module && module.hot) { Stuff = _home_weidelix_Desktop_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_3__["applyHmr"]({ m: module, id: "\"src/pages/Stuff.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Stuff, ProxyAdapter: _home_weidelix_Desktop_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_4__["default"], compileData: {"vars":[{"name":"Card","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"hasMaximizedCard","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"Button","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"buttons","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"/home/weidelix/Desktop/personal-website/src/pages/Stuff.svelte","format":"esm","dev":true}, cssId: "svelte-1jqxwph-style", nonCssHash: "ggso8m", }); }
+if (module && module.hot) { Stuff = D_Ariane_personal_website_node_modules_svelte_loader_hot_lib_svelte3_hot_api_js__WEBPACK_IMPORTED_MODULE_3__["applyHmr"]({ m: module, id: "\"src\\\\pages\\\\Stuff.svelte\"", hotOptions: {"noPreserveState":false,"noPreserveStateKey":"@!hmr","noReload":false,"optimistic":true,"acceptNamedExports":true,"acceptAccessors":true,"injectCss":true,"cssEjectDelay":100,"native":false,"compatVite":false,"importAdapterName":"___SVELTE_HMR_HOT_API_PROXY_ADAPTER","absoluteImports":true}, Component: Stuff, ProxyAdapter: D_Ariane_personal_website_node_modules_svelte_hmr_runtime_proxy_adapter_dom_js__WEBPACK_IMPORTED_MODULE_4__["default"], compileData: {"vars":[{"name":"Card","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"hasMaximizedCard","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":false,"writable":false,"referenced_from_script":false},{"name":"Button","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":false,"referenced_from_script":false},{"name":"buttons","export_name":null,"injected":false,"module":false,"mutated":false,"reassigned":false,"referenced":true,"writable":true,"referenced_from_script":false}],"accessors":false}, compileOptions: {"filename":"D:\\Ariane\\personal-website\\src\\pages\\Stuff.svelte","format":"esm","dev":true}, cssId: "svelte-1jqxwph-style", nonCssHash: "1b4ej8x", }); }
 /* harmony default export */ __webpack_exports__["default"] = (Stuff);
 
 if (typeof add_css !== 'undefined' && !document.getElementById("svelte-1jqxwph-style")) add_css();
@@ -25040,7 +24972,7 @@ if (typeof add_css !== 'undefined' && !document.getElementById("svelte-1jqxwph-s
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1623148326596
+      // 1627725777051
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"sourceMap":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -25050,14 +24982,14 @@ if (typeof add_css !== 'undefined' && !document.getElementById("svelte-1jqxwph-s
 /***/ }),
 
 /***/ 1:
-/*!*****************************************************************************************************************************************************************************!*\
-  !*** multi (webpack)-dev-server/client?https://192.168.1.13:3000 (webpack)/hot/dev-server.js ./src/styles/index.scss ./src/main.ts @fortawesome/fontawesome-free/js/all.js ***!
-  \*****************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************!*\
+  !*** multi (webpack)-dev-server/client?https://0.0.0.0:3000 (webpack)/hot/dev-server.js ./src/styles/index.scss ./src/main.ts @fortawesome/fontawesome-free/js/all.js ***!
+  \************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/weidelix/Desktop/personal-website/node_modules/webpack-dev-server/client/index.js?https://192.168.1.13:3000 */"./node_modules/webpack-dev-server/client/index.js?https://192.168.1.13:3000");
-__webpack_require__(/*! /home/weidelix/Desktop/personal-website/node_modules/webpack/hot/dev-server.js */"./node_modules/webpack/hot/dev-server.js");
+__webpack_require__(/*! D:\Ariane\personal-website\node_modules\webpack-dev-server\client\index.js?https://0.0.0.0:3000 */"./node_modules/webpack-dev-server/client/index.js?https://0.0.0.0:3000");
+__webpack_require__(/*! D:\Ariane\personal-website\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
 __webpack_require__(/*! ./src/styles/index.scss */"./src/styles/index.scss");
 __webpack_require__(/*! ./src/main.ts */"./src/main.ts");
 module.exports = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.js */"./node_modules/@fortawesome/fontawesome-free/js/all.js");

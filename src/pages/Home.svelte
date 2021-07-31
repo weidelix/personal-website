@@ -99,7 +99,7 @@
 				<!-- Home page title -->
 				<div>	
 					<h3 class="sub-title">Hi! I'm</h3>
-					<h1 class="title justify-self-center font-black">Anthony</h1>
+					<h1 class="title justify-self-center font-black">Anthony Mesina</h1>
 				</div>
 
 				<!-- Description -->

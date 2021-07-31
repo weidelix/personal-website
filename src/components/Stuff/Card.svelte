@@ -27,10 +27,10 @@
 			}
 	});
 
-	let BG = 0;
-	let TITLE = 1;
-	let DESC = 2;
-	let IMG = 3;
+	const BG = 0;
+	const TITLE = 1;
+	const DESC = 2;
+	const IMG = 3;
 
 	let isMaximized = false;
 	export let title = 'Title';
